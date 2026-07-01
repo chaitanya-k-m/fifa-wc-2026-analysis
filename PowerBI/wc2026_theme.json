@@ -1,0 +1,56 @@
+{
+  "name": "WC2026 Bold",
+  "dataColors": [
+    "#D85A30",
+    "#1D9E75",
+    "#378ADD",
+    "#EF9F27",
+    "#993556",
+    "#534AB7",
+    "#639922",
+    "#E24B4A"
+  ],
+  "background": "#FDF6EC",
+  "foreground": "#5A3210",
+  "tableAccent": "#D85A30",
+  "good": "#1D9E75",
+  "neutral": "#EF9F27",
+  "bad": "#E24B4A",
+  "maximum": "#D85A30",
+  "minimum": "#FDF6EC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ],
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#9A4A16"
+              }
+            },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#5A3210"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

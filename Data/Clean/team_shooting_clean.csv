@@ -1,0 +1,89 @@
+﻿league,season,team,game,date,round,day,venue,result,GF,GA,opponent,Gls,Sh,SoT,SoT%,G/Sh,G/SoT,PK,PKatt,time,match_report
+,2026,Algeria,2026-06-16 Argentina-Argentina,2026-06-16,Group stage,Tue,Neutral,L,0,3,Argentina,0,7.0,0.0,0.0,0.0,,0,0,20:00:00,/en/matches/881ab666/Argentina-Algeria-June-16-2026-World-Cup
+,2026,Algeria,2026-06-22 Jordan-Jordan,2026-06-22,Group stage,Mon,Neutral,W,2,1,Jordan,2,17.0,8.0,47.1,0.12,0.25,0,0,20:00:00,/en/matches/eb19002c/Jordan-Algeria-June-22-2026-World-Cup
+,2026,Argentina,2026-06-16 Algeria-Algeria,2026-06-16,Group stage,Tue,Neutral,W,3,0,Algeria,3,10.0,6.0,60.0,0.3,0.5,0,0,20:00:00,/en/matches/881ab666/Argentina-Algeria-June-16-2026-World-Cup
+,2026,Argentina,2026-06-22 Austria-Austria,2026-06-22,Group stage,Mon,Neutral,W,2,0,Austria,2,12.0,5.0,41.7,0.17,0.4,0,1,12:00:00,/en/matches/e7d8a062/Argentina-Austria-June-22-2026-World-Cup
+,2026,Australia,2026-06-13 Türkiye-Türkiye,2026-06-13,Group stage,Sat,Neutral,W,2,0,Türkiye,2,9.0,4.0,44.4,0.22,0.5,0,0,21:00:00,/en/matches/4ff2342a/Australia-Turkiye-June-13-2026-World-Cup
+,2026,Australia,2026-06-19 United States-United States,2026-06-19,Group stage,Fri,Neutral,L,0,2,United States,0,5.0,2.0,40.0,0.0,0.0,0,0,12:00:00,/en/matches/580cb771/United-States-Australia-June-19-2026-World-Cup
+,2026,Austria,2026-06-16 Jordan-Jordan,2026-06-16,Group stage,Tue,Neutral,W,3,1,Jordan,2,11.0,4.0,36.4,0.09,0.25,1,1,21:00:00,/en/matches/140e19d9/Austria-Jordan-June-16-2026-World-Cup
+,2026,Austria,2026-06-22 Argentina-Argentina,2026-06-22,Group stage,Mon,Neutral,L,0,2,Argentina,0,6.0,1.0,16.7,0.0,0.0,0,0,12:00:00,/en/matches/e7d8a062/Argentina-Austria-June-22-2026-World-Cup
+,2026,Belgium,2026-06-15 Egypt-Egypt,2026-06-15,Group stage,Mon,Neutral,D,1,1,Egypt,0,15.0,3.0,20.0,0.0,0.0,0,0,12:00:00,/en/matches/5f18a385/Belgium-Egypt-June-15-2026-World-Cup
+,2026,Belgium,2026-06-21 IR Iran-IR Iran,2026-06-21,Group stage,Sun,Neutral,D,0,0,IR Iran,0,23.0,7.0,30.4,0.0,0.0,0,0,12:00:00,/en/matches/c96f559b/Belgium-IR-Iran-June-21-2026-World-Cup
+,2026,Bosnia & Herz.,2026-06-12 Canada-Canada,2026-06-12,Group stage,Fri,Neutral,D,1,1,Canada,1,8.0,3.0,37.5,0.13,0.33,0,0,15:00:00,/en/matches/f6d2bd84/Canada-Bosnia-and-Herzegovina-June-12-2026-World-Cup
+,2026,Bosnia & Herz.,2026-06-18 Switzerland-Switzerland,2026-06-18,Group stage,Thu,Neutral,L,1,4,Switzerland,1,5.0,3.0,60.0,0.2,0.33,0,0,12:00:00,/en/matches/5134daab/Switzerland-Bosnia-and-Herzegovina-June-18-2026-World-Cup
+,2026,Brazil,2026-06-13 Morocco-Morocco,2026-06-13,Group stage,Sat,Neutral,D,1,1,Morocco,1,12.0,5.0,41.7,0.08,0.2,0,0,18:00:00,/en/matches/72d993fd/Brazil-Morocco-June-13-2026-World-Cup
+,2026,Brazil,2026-06-19 Haiti-Haiti,2026-06-19,Group stage,Fri,Neutral,W,3,0,Haiti,3,8.0,5.0,62.5,0.38,0.6,0,0,20:30:00,/en/matches/48cce92a/Brazil-Haiti-June-19-2026-World-Cup
+,2026,Cabo Verde,2026-06-15 Spain-Spain,2026-06-15,Group stage,Mon,Neutral,D,0,0,Spain,0,6.0,1.0,16.7,0.0,0.0,0,0,12:00:00,/en/matches/c100284d/Spain-Cabo-Verde-June-15-2026-World-Cup
+,2026,Cabo Verde,2026-06-21 Uruguay-Uruguay,2026-06-21,Group stage,Sun,Neutral,D,2,2,Uruguay,2,12.0,4.0,33.3,0.17,0.5,0,0,18:00:00,/en/matches/bc0e570b/Uruguay-Cabo-Verde-June-21-2026-World-Cup
+,2026,Canada,2026-06-12 Bosnia & Herz.-Bosnia & Herz.,2026-06-12,Group stage,Fri,Neutral,D,1,1,Bosnia & Herz.,1,13.0,4.0,30.8,0.08,0.25,0,0,15:00:00,/en/matches/f6d2bd84/Canada-Bosnia-and-Herzegovina-June-12-2026-World-Cup
+,2026,Canada,2026-06-18 Qatar-Qatar,2026-06-18,Group stage,Thu,Neutral,W,6,0,Qatar,5,32.0,10.0,31.3,0.16,0.5,0,0,15:00:00,/en/matches/60dedabb/Canada-Qatar-June-18-2026-World-Cup
+,2026,Colombia,2026-06-17 Uzbekistan-Uzbekistan,2026-06-17,Group stage,Wed,Neutral,W,3,1,Uzbekistan,3,15.0,4.0,26.7,0.2,0.75,0,0,20:00:00,/en/matches/3329959e/Uzbekistan-Colombia-June-17-2026-World-Cup
+,2026,Congo DR,2026-06-17 Portugal-Portugal,2026-06-17,Group stage,Wed,Neutral,D,1,1,Portugal,1,8.0,2.0,25.0,0.13,0.5,0,0,12:00:00,/en/matches/c95830e9/Portugal-Congo-DR-June-17-2026-World-Cup
+,2026,Croatia,2026-06-17 England-England,2026-06-17,Group stage,Wed,Neutral,L,2,4,England,2,10.0,5.0,50.0,0.2,0.4,0,0,15:00:00,/en/matches/c42ce3be/England-Croatia-June-17-2026-World-Cup
+,2026,Curaçao,2026-06-14 Germany-Germany,2026-06-14,Group stage,Sun,Neutral,L,1,7,Germany,1,8.0,2.0,25.0,0.13,0.5,0,0,12:00:00,/en/matches/a2c54ed9/Germany-Curacao-June-14-2026-World-Cup
+,2026,Curaçao,2026-06-20 Ecuador-Ecuador,2026-06-20,Group stage,Sat,Neutral,D,0,0,Ecuador,0,10.0,3.0,30.0,0.0,0.0,0,0,19:00:00,/en/matches/ca7eecdb/Ecuador-Curacao-June-20-2026-World-Cup
+,2026,Czechia,2026-06-11 Korea Republic-Korea Republic,2026-06-11,Group stage,Thu,Neutral,L,1,2,Korea Republic,1,7.0,4.0,57.1,0.14,0.25,0,0,20:00:00,/en/matches/beebb792/Korea-Republic-Czechia-June-11-2026-World-Cup
+,2026,Czechia,2026-06-18 South Africa-South Africa,2026-06-18,Group stage,Thu,Neutral,D,1,1,South Africa,1,14.0,3.0,21.4,0.07,0.33,0,0,12:00:00,/en/matches/02f675d6/Czechia-South-Africa-June-18-2026-World-Cup
+,2026,Côte d'Ivoire,2026-06-14 Ecuador-Ecuador,2026-06-14,Group stage,Sun,Neutral,W,1,0,Ecuador,1,15.0,4.0,26.7,0.07,0.25,0,0,19:00:00,/en/matches/f8ee7eef/Cote-dIvoire-Ecuador-June-14-2026-World-Cup
+,2026,Côte d'Ivoire,2026-06-20 Germany-Germany,2026-06-20,Group stage,Sat,Neutral,L,1,2,Germany,1,9.0,2.0,22.2,0.11,0.5,0,0,16:00:00,/en/matches/43fec9f3/Germany-Cote-dIvoire-June-20-2026-World-Cup
+,2026,Ecuador,2026-06-14 Côte d'Ivoire-Côte d'Ivoire,2026-06-14,Group stage,Sun,Neutral,L,0,1,Côte d'Ivoire,0,12.0,1.0,8.3,0.0,0.0,0,0,19:00:00,/en/matches/f8ee7eef/Cote-dIvoire-Ecuador-June-14-2026-World-Cup
+,2026,Ecuador,2026-06-20 Curaçao-Curaçao,2026-06-20,Group stage,Sat,Neutral,D,0,0,Curaçao,0,27.0,15.0,55.6,0.0,0.0,0,0,19:00:00,/en/matches/ca7eecdb/Ecuador-Curacao-June-20-2026-World-Cup
+,2026,Egypt,2026-06-15 Belgium-Belgium,2026-06-15,Group stage,Mon,Neutral,D,1,1,Belgium,1,14.0,3.0,21.4,0.07,0.33,0,0,12:00:00,/en/matches/5f18a385/Belgium-Egypt-June-15-2026-World-Cup
+,2026,Egypt,2026-06-21 New Zealand-New Zealand,2026-06-21,Group stage,Sun,Neutral,W,3,1,New Zealand,3,19.0,7.0,36.8,0.16,0.43,0,0,18:00:00,/en/matches/d5699a16/New-Zealand-Egypt-June-21-2026-World-Cup
+,2026,England,2026-06-17 Croatia-Croatia,2026-06-17,Group stage,Wed,Neutral,W,4,2,Croatia,4,22.0,11.0,50.0,0.14,0.27,1,1,15:00:00,/en/matches/c42ce3be/England-Croatia-June-17-2026-World-Cup
+,2026,France,2026-06-16 Senegal-Senegal,2026-06-16,Group stage,Tue,Neutral,W,3,1,Senegal,3,11.0,8.0,72.7,0.27,0.38,0,0,15:00:00,/en/matches/2712fac7/France-Senegal-June-16-2026-World-Cup
+,2026,France,2026-06-22 Iraq-Iraq,2026-06-22,Group stage,Mon,Neutral,W,3,0,Iraq,3,19.0,5.0,26.3,0.16,0.6,0,0,17:00:00,/en/matches/31f1f241/France-Iraq-June-22-2026-World-Cup
+,2026,Germany,2026-06-14 Curaçao-Curaçao,2026-06-14,Group stage,Sun,Neutral,W,7,1,Curaçao,7,26.0,12.0,46.2,0.23,0.5,1,1,12:00:00,/en/matches/a2c54ed9/Germany-Curacao-June-14-2026-World-Cup
+,2026,Germany,2026-06-20 Côte d'Ivoire-Côte d'Ivoire,2026-06-20,Group stage,Sat,Neutral,W,2,1,Côte d'Ivoire,2,16.0,7.0,43.8,0.13,0.29,0,0,16:00:00,/en/matches/43fec9f3/Germany-Cote-dIvoire-June-20-2026-World-Cup
+,2026,Ghana,2026-06-17 Panama-Panama,2026-06-17,Group stage,Wed,Neutral,W,1,0,Panama,1,8.0,2.0,25.0,0.13,0.5,0,0,19:00:00,/en/matches/9f71086a/Ghana-Panama-June-17-2026-World-Cup
+,2026,Haiti,2026-06-13 Scotland-Scotland,2026-06-13,Group stage,Sat,Neutral,L,0,1,Scotland,0,15.0,2.0,13.3,0.0,0.0,0,0,21:00:00,/en/matches/58c3106f/Haiti-Scotland-June-13-2026-World-Cup
+,2026,Haiti,2026-06-19 Brazil-Brazil,2026-06-19,Group stage,Fri,Neutral,L,0,3,Brazil,0,7.0,3.0,42.9,0.0,0.0,0,0,20:30:00,/en/matches/48cce92a/Brazil-Haiti-June-19-2026-World-Cup
+,2026,IR Iran,2026-06-15 New Zealand-New Zealand,2026-06-15,Group stage,Mon,Neutral,D,2,2,New Zealand,2,17.0,4.0,23.5,0.12,0.5,0,0,18:00:00,/en/matches/a039dc32/IR-Iran-New-Zealand-June-15-2026-World-Cup
+,2026,IR Iran,2026-06-21 Belgium-Belgium,2026-06-21,Group stage,Sun,Neutral,D,0,0,Belgium,0,7.0,3.0,42.9,0.0,0.0,0,0,12:00:00,/en/matches/c96f559b/Belgium-IR-Iran-June-21-2026-World-Cup
+,2026,Iraq,2026-06-16 Norway-Norway,2026-06-16,Group stage,Tue,Neutral,L,1,4,Norway,1,11.0,1.0,9.1,0.09,1.0,0,0,18:00:00,/en/matches/17eda16a/Iraq-Norway-June-16-2026-World-Cup
+,2026,Iraq,2026-06-22 France-France,2026-06-22,Group stage,Mon,Neutral,L,0,3,France,0,4.0,0.0,0.0,0.0,,0,0,17:00:00,/en/matches/31f1f241/France-Iraq-June-22-2026-World-Cup
+,2026,Japan,2026-06-14 Netherlands-Netherlands,2026-06-14,Group stage,Sun,Neutral,D,2,2,Netherlands,2,10.0,3.0,30.0,0.2,0.67,0,0,15:00:00,/en/matches/faa0cb98/Netherlands-Japan-June-14-2026-World-Cup
+,2026,Japan,2026-06-20 Tunisia-Tunisia,2026-06-20,Group stage,Sat,Neutral,W,4,0,Tunisia,4,11.0,5.0,45.5,0.36,0.8,0,0,22:00:00,/en/matches/27695f4a/Tunisia-Japan-June-20-2026-World-Cup
+,2026,Jordan,2026-06-16 Austria-Austria,2026-06-16,Group stage,Tue,Neutral,L,1,3,Austria,1,11.0,4.0,36.4,0.09,0.25,0,0,21:00:00,/en/matches/140e19d9/Austria-Jordan-June-16-2026-World-Cup
+,2026,Jordan,2026-06-22 Algeria-Algeria,2026-06-22,Group stage,Mon,Neutral,L,1,2,Algeria,1,8.0,4.0,50.0,0.13,0.25,0,0,20:00:00,/en/matches/eb19002c/Jordan-Algeria-June-22-2026-World-Cup
+,2026,Korea Republic,2026-06-11 Czechia-Czechia,2026-06-11,Group stage,Thu,Neutral,W,2,1,Czechia,2,15.0,6.0,40.0,0.13,0.33,0,0,20:00:00,/en/matches/beebb792/Korea-Republic-Czechia-June-11-2026-World-Cup
+,2026,Korea Republic,2026-06-18 Mexico-Mexico,2026-06-18,Group stage,Thu,Neutral,L,0,1,Mexico,0,9.0,2.0,22.2,0.0,0.0,0,0,19:00:00,/en/matches/50a429da/Mexico-Korea-Republic-June-18-2026-World-Cup
+,2026,Mexico,2026-06-11 South Africa-South Africa,2026-06-11,Group stage,Thu,Neutral,W,2,0,South Africa,2,16.0,4.0,25.0,0.13,0.5,0,0,13:00:00,/en/matches/3c1e3816/Mexico-South-Africa-June-11-2026-World-Cup
+,2026,Mexico,2026-06-18 Korea Republic-Korea Republic,2026-06-18,Group stage,Thu,Neutral,W,1,0,Korea Republic,1,8.0,4.0,50.0,0.13,0.25,0,0,19:00:00,/en/matches/50a429da/Mexico-Korea-Republic-June-18-2026-World-Cup
+,2026,Morocco,2026-06-13 Brazil-Brazil,2026-06-13,Group stage,Sat,Neutral,D,1,1,Brazil,1,14.0,3.0,21.4,0.07,0.33,0,0,18:00:00,/en/matches/72d993fd/Brazil-Morocco-June-13-2026-World-Cup
+,2026,Morocco,2026-06-19 Scotland-Scotland,2026-06-19,Group stage,Fri,Neutral,W,1,0,Scotland,1,12.0,2.0,16.7,0.08,0.5,0,0,18:00:00,/en/matches/2a469714/Scotland-Morocco-June-19-2026-World-Cup
+,2026,Netherlands,2026-06-14 Japan-Japan,2026-06-14,Group stage,Sun,Neutral,D,2,2,Japan,2,10.0,6.0,60.0,0.2,0.33,0,0,15:00:00,/en/matches/faa0cb98/Netherlands-Japan-June-14-2026-World-Cup
+,2026,Netherlands,2026-06-20 Sweden-Sweden,2026-06-20,Group stage,Sat,Neutral,W,5,1,Sweden,5,10.0,7.0,70.0,0.5,0.71,0,0,12:00:00,/en/matches/816f4180/Netherlands-Sweden-June-20-2026-World-Cup
+,2026,New Zealand,2026-06-15 IR Iran-IR Iran,2026-06-15,Group stage,Mon,Neutral,D,2,2,IR Iran,2,14.0,8.0,57.1,0.14,0.25,0,0,18:00:00,/en/matches/a039dc32/IR-Iran-New-Zealand-June-15-2026-World-Cup
+,2026,New Zealand,2026-06-21 Egypt-Egypt,2026-06-21,Group stage,Sun,Neutral,L,1,3,Egypt,1,11.0,5.0,45.5,0.09,0.2,0,0,18:00:00,/en/matches/d5699a16/New-Zealand-Egypt-June-21-2026-World-Cup
+,2026,Norway,2026-06-16 Iraq-Iraq,2026-06-16,Group stage,Tue,Neutral,W,4,1,Iraq,3,12.0,5.0,41.7,0.25,0.6,0,0,18:00:00,/en/matches/17eda16a/Iraq-Norway-June-16-2026-World-Cup
+,2026,Norway,2026-06-22 Senegal-Senegal,2026-06-22,Group stage,Mon,Neutral,W,3,2,Senegal,3,13.0,7.0,53.8,0.23,0.43,0,0,20:00:00,/en/matches/7382111b/Norway-Senegal-June-22-2026-World-Cup
+,2026,Panama,2026-06-17 Ghana-Ghana,2026-06-17,Group stage,Wed,Neutral,L,0,1,Ghana,0,11.0,4.0,36.4,0.0,0.0,0,0,19:00:00,/en/matches/9f71086a/Ghana-Panama-June-17-2026-World-Cup
+,2026,Paraguay,2026-06-12 United States-United States,2026-06-12,Group stage,Fri,Neutral,L,1,4,United States,1,9.0,1.0,11.1,0.11,1.0,0,0,18:00:00,/en/matches/f6c0596c/United-States-Paraguay-June-12-2026-World-Cup
+,2026,Paraguay,2026-06-19 Türkiye-Türkiye,2026-06-19,Group stage,Fri,Neutral,W,1,0,Türkiye,1,7.0,2.0,28.6,0.14,0.5,0,0,20:00:00,/en/matches/82209c60/Turkiye-Paraguay-June-19-2026-World-Cup
+,2026,Portugal,2026-06-17 Congo DR-Congo DR,2026-06-17,Group stage,Wed,Neutral,D,1,1,Congo DR,1,7.0,1.0,14.3,0.14,1.0,0,0,12:00:00,/en/matches/c95830e9/Portugal-Congo-DR-June-17-2026-World-Cup
+,2026,Qatar,2026-06-13 Switzerland-Switzerland,2026-06-13,Group stage,Sat,Neutral,D,1,1,Switzerland,1,7.0,4.0,57.1,0.14,0.25,0,0,12:00:00,/en/matches/58580af9/Qatar-Switzerland-June-13-2026-World-Cup
+,2026,Qatar,2026-06-18 Canada-Canada,2026-06-18,Group stage,Thu,Neutral,L,0,6,Canada,0,2.0,0.0,0.0,0.0,,0,0,15:00:00,/en/matches/60dedabb/Canada-Qatar-June-18-2026-World-Cup
+,2026,Saudi Arabia,2026-06-15 Uruguay-Uruguay,2026-06-15,Group stage,Mon,Neutral,D,1,1,Uruguay,1,7.0,3.0,42.9,0.14,0.33,0,0,18:00:00,/en/matches/82de5964/Saudi-Arabia-Uruguay-June-15-2026-World-Cup
+,2026,Saudi Arabia,2026-06-21 Spain-Spain,2026-06-21,Group stage,Sun,Neutral,L,0,4,Spain,0,3.0,1.0,33.3,0.0,0.0,0,0,12:00:00,/en/matches/0fcac1d8/Spain-Saudi-Arabia-June-21-2026-World-Cup
+,2026,Scotland,2026-06-13 Haiti-Haiti,2026-06-13,Group stage,Sat,Neutral,W,1,0,Haiti,1,9.0,2.0,22.2,0.11,0.5,0,0,21:00:00,/en/matches/58c3106f/Haiti-Scotland-June-13-2026-World-Cup
+,2026,Scotland,2026-06-19 Morocco-Morocco,2026-06-19,Group stage,Fri,Neutral,L,0,1,Morocco,0,6.0,0.0,0.0,0.0,,0,0,18:00:00,/en/matches/2a469714/Scotland-Morocco-June-19-2026-World-Cup
+,2026,Senegal,2026-06-16 France-France,2026-06-16,Group stage,Tue,Neutral,L,1,3,France,1,6.0,2.0,33.3,0.17,0.5,0,0,15:00:00,/en/matches/2712fac7/France-Senegal-June-16-2026-World-Cup
+,2026,Senegal,2026-06-22 Norway-Norway,2026-06-22,Group stage,Mon,Neutral,L,2,3,Norway,2,16.0,4.0,25.0,0.13,0.5,0,0,20:00:00,/en/matches/7382111b/Norway-Senegal-June-22-2026-World-Cup
+,2026,South Africa,2026-06-11 Mexico-Mexico,2026-06-11,Group stage,Thu,Neutral,L,0,2,Mexico,0,3.0,2.0,66.7,0.0,0.0,0,0,13:00:00,/en/matches/3c1e3816/Mexico-South-Africa-June-11-2026-World-Cup
+,2026,South Africa,2026-06-18 Czechia-Czechia,2026-06-18,Group stage,Thu,Neutral,D,1,1,Czechia,1,17.0,4.0,23.5,0.0,0.0,1,1,12:00:00,/en/matches/02f675d6/Czechia-South-Africa-June-18-2026-World-Cup
+,2026,Spain,2026-06-15 Cabo Verde-Cabo Verde,2026-06-15,Group stage,Mon,Neutral,D,0,0,Cabo Verde,0,27.0,7.0,25.9,0.0,0.0,0,0,12:00:00,/en/matches/c100284d/Spain-Cabo-Verde-June-15-2026-World-Cup
+,2026,Spain,2026-06-21 Saudi Arabia-Saudi Arabia,2026-06-21,Group stage,Sun,Neutral,W,4,0,Saudi Arabia,3,22.0,8.0,36.4,0.14,0.38,0,0,12:00:00,/en/matches/0fcac1d8/Spain-Saudi-Arabia-June-21-2026-World-Cup
+,2026,Sweden,2026-06-14 Tunisia-Tunisia,2026-06-14,Group stage,Sun,Neutral,W,5,1,Tunisia,5,13.0,7.0,53.8,0.38,0.71,0,0,20:00:00,/en/matches/6df52cfd/Sweden-Tunisia-June-14-2026-World-Cup
+,2026,Sweden,2026-06-20 Netherlands-Netherlands,2026-06-20,Group stage,Sat,Neutral,L,1,5,Netherlands,1,16.0,8.0,50.0,0.06,0.13,0,0,12:00:00,/en/matches/816f4180/Netherlands-Sweden-June-20-2026-World-Cup
+,2026,Switzerland,2026-06-13 Qatar-Qatar,2026-06-13,Group stage,Sat,Neutral,D,1,1,Qatar,1,26.0,7.0,26.9,0.0,0.0,1,1,12:00:00,/en/matches/58580af9/Qatar-Switzerland-June-13-2026-World-Cup
+,2026,Switzerland,2026-06-18 Bosnia & Herz.-Bosnia & Herz.,2026-06-18,Group stage,Thu,Neutral,W,4,1,Bosnia & Herz.,4,13.0,7.0,53.8,0.23,0.43,1,1,12:00:00,/en/matches/5134daab/Switzerland-Bosnia-and-Herzegovina-June-18-2026-World-Cup
+,2026,Tunisia,2026-06-14 Sweden-Sweden,2026-06-14,Group stage,Sun,Neutral,L,1,5,Sweden,1,6.0,2.0,33.3,0.17,0.5,0,0,20:00:00,/en/matches/6df52cfd/Sweden-Tunisia-June-14-2026-World-Cup
+,2026,Tunisia,2026-06-20 Japan-Japan,2026-06-20,Group stage,Sat,Neutral,L,0,4,Japan,0,2.0,0.0,0.0,0.0,,0,0,22:00:00,/en/matches/27695f4a/Tunisia-Japan-June-20-2026-World-Cup
+,2026,Türkiye,2026-06-13 Australia-Australia,2026-06-13,Group stage,Sat,Neutral,L,0,2,Australia,0,30.0,8.0,26.7,0.0,0.0,0,0,21:00:00,/en/matches/4ff2342a/Australia-Turkiye-June-13-2026-World-Cup
+,2026,Türkiye,2026-06-19 Paraguay-Paraguay,2026-06-19,Group stage,Fri,Neutral,L,0,1,Paraguay,0,32.0,5.0,15.6,0.0,0.0,0,0,20:00:00,/en/matches/82209c60/Turkiye-Paraguay-June-19-2026-World-Cup
+,2026,United States,2026-06-12 Paraguay-Paraguay,2026-06-12,Group stage,Fri,Neutral,W,4,1,Paraguay,3,16.0,6.0,37.5,0.19,0.5,0,0,18:00:00,/en/matches/f6c0596c/United-States-Paraguay-June-12-2026-World-Cup
+,2026,United States,2026-06-19 Australia-Australia,2026-06-19,Group stage,Fri,Neutral,W,2,0,Australia,1,10.0,2.0,20.0,0.1,0.5,0,0,12:00:00,/en/matches/580cb771/United-States-Australia-June-19-2026-World-Cup
+,2026,Uruguay,2026-06-15 Saudi Arabia-Saudi Arabia,2026-06-15,Group stage,Mon,Neutral,D,1,1,Saudi Arabia,1,27.0,10.0,37.0,0.04,0.1,0,0,18:00:00,/en/matches/82de5964/Saudi-Arabia-Uruguay-June-15-2026-World-Cup
+,2026,Uruguay,2026-06-21 Cabo Verde-Cabo Verde,2026-06-21,Group stage,Sun,Neutral,D,2,2,Cabo Verde,2,17.0,2.0,11.8,0.12,1.0,0,0,18:00:00,/en/matches/bc0e570b/Uruguay-Cabo-Verde-June-21-2026-World-Cup
+,2026,Uzbekistan,2026-06-17 Colombia-Colombia,2026-06-17,Group stage,Wed,Neutral,L,1,3,Colombia,1,8.0,2.0,25.0,0.13,0.5,0,0,20:00:00,/en/matches/3329959e/Uzbekistan-Colombia-June-17-2026-World-Cup

@@ -1,9 +1,7 @@
--- ================================================
--- 06_home_vs_away_advantage.sql
--- Question: How much does home advantage affect win rates across all matches?
--- Dataset: wc2026.results (international results 1930-2026)
+-- Question: How much does home advantage affect win rates across FIFA matches?
+-- Dataset: wc2026.results + wc2026.fifa_teams (international results 1930-2026)
 -- Written: 2026-06-22
--- ================================================
+USE wc2026;
 SELECT 'Home' AS perspective,
     COUNT(*) AS total_matches,
     SUM(
@@ -33,8 +31,10 @@ SELECT 'Home' AS perspective,
         ) / COUNT(*),
         4
     ) AS win_rate
-FROM results
-WHERE neutral = 0
+FROM results r
+    JOIN fifa_teams h ON h.team_name = r.home_team
+    JOIN fifa_teams a ON a.team_name = r.away_team
+WHERE r.neutral = 0
 UNION ALL
 SELECT 'Neutral Venue' AS perspective,
     COUNT(*) AS total_matches,
@@ -65,5 +65,7 @@ SELECT 'Neutral Venue' AS perspective,
         ) / COUNT(*),
         4
     ) AS win_rate
-FROM results
-WHERE neutral = 1;
+FROM results r
+    JOIN fifa_teams h ON h.team_name = r.home_team
+    JOIN fifa_teams a ON a.team_name = r.away_team
+WHERE r.neutral = 1;

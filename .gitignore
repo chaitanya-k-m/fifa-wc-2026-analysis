@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# soccerdata cache
+.soccerdata/
+
+# OS junk
+.DS_Store
+Thumbs.db

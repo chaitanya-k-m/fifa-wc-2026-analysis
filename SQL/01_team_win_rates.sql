@@ -1,5 +1,5 @@
--- Question: What is the all-time win rate for each team with 30+ matches?
--- Dataset: wc2026.results (international results 1930-2026)
+-- Question: What is the all-time win rate for each FIFA member team with 30+ matches?
+-- Dataset: wc2026.results + wc2026.fifa_teams (international results 1930-2026)
 -- Written: 2026-06-22
 USE wc2026;
 SELECT team,
@@ -12,14 +12,18 @@ FROM (
                 WHEN result = 'home_win' THEN 1
                 ELSE 0
             END AS is_win
-        FROM results
+        FROM results r
+            JOIN fifa_teams h ON h.team_name = r.home_team
+            JOIN fifa_teams a ON a.team_name = r.away_team
         UNION ALL
         SELECT away_team AS team,
             CASE
                 WHEN result = 'away_win' THEN 1
                 ELSE 0
             END AS is_win
-        FROM results
+        FROM results r
+            JOIN fifa_teams h ON h.team_name = r.home_team
+            JOIN fifa_teams a ON a.team_name = r.away_team
     ) AS all_matches
 GROUP BY team
 HAVING COUNT(*) >= 30
