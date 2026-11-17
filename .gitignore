@@ -11,3 +11,9 @@ __pycache__/
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Any env variants (keys/tokens)
+.env.*
+
+# Selenium/undetected-chromedriver scratch output
+downloaded_files/
