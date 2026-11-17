@@ -1,91 +1,164 @@
-﻿league,season,game,team,player,age,min,SoTA,GA,Saves,Save%,game_id
-INT-World Cup,2026,2026-06-11 Korea Republic-Czechia,Czechia,Matej Kovar,26-025,90,6,2,4,66.7,beebb792
-INT-World Cup,2026,2026-06-11 Korea Republic-Czechia,Korea Republic,Kim Seung-gyu,35-254,90,4,1,3,75.0,beebb792
-INT-World Cup,2026,2026-06-11 Mexico-South Africa,Mexico,Raúl Rangel,26-106,90,2,0,2,100.0,3c1e3816
-INT-World Cup,2026,2026-06-11 Mexico-South Africa,South Africa,Ronwen Williams,34-141,90,4,2,2,50.0,3c1e3816
-INT-World Cup,2026,2026-06-12 Canada-Bosnia & Herz.,Bosnia and Herzegovina,Nikola Vasilj,30-192,90,2,1,1,50.0,f6d2bd84
-INT-World Cup,2026,2026-06-12 Canada-Bosnia & Herz.,Canada,Maxime Crépeau,32-032,90,3,1,2,66.7,f6d2bd84
-INT-World Cup,2026,2026-06-12 United States-Paraguay,Paraguay,Orlando Gill,26-001,90,7,4,3,42.9,f6c0596c
-INT-World Cup,2026,2026-06-12 United States-Paraguay,United States,Matt Freese,27-283,90,1,1,0,0.0,f6c0596c
-INT-World Cup,2026,2026-06-13 Australia-Türkiye,Australia,Patrick Beach,22-311,90,8,0,8,100.0,4ff2342a
-INT-World Cup,2026,2026-06-13 Australia-Türkiye,Türkiye,Uğurcan Çakır,30-069,90,4,2,2,50.0,4ff2342a
-INT-World Cup,2026,2026-06-13 Brazil-Morocco,Brazil,Alisson,33-254,90,3,1,2,66.7,72d993fd
-INT-World Cup,2026,2026-06-13 Brazil-Morocco,Morocco,Yassine Bounou,35-069,90,5,1,4,80.0,72d993fd
-INT-World Cup,2026,2026-06-13 Haiti-Scotland,Haiti,Johny Placide,38-135,90,2,1,1,50.0,58c3106f
-INT-World Cup,2026,2026-06-13 Haiti-Scotland,Scotland,Angus Gunn,30-142,90,2,0,2,100.0,58c3106f
-INT-World Cup,2026,2026-06-13 Qatar-Switzerland,Qatar,Mahmoud Abunada,26-128,90,5,1,5,100.0,58580af9
-INT-World Cup,2026,2026-06-13 Qatar-Switzerland,Switzerland,Gregor Kobel,28-189,90,4,1,3,75.0,58580af9
-INT-World Cup,2026,2026-06-14 Côte d'Ivoire-Ecuador,Côte d'Ivoire,Yahia Fofana,25-297,90,1,0,1,100.0,f8ee7eef
-INT-World Cup,2026,2026-06-14 Côte d'Ivoire-Ecuador,Ecuador,Hernán Galíndez,39-076,90,4,1,3,75.0,f8ee7eef
-INT-World Cup,2026,2026-06-14 Germany-Curaçao,Curaçao,Eloy Room,37-128,90,10,7,4,40.0,a2c54ed9
-INT-World Cup,2026,2026-06-14 Germany-Curaçao,Germany,Manuel Neuer,40-079,90,2,1,1,50.0,a2c54ed9
-INT-World Cup,2026,2026-06-14 Netherlands-Japan,Japan,Zion Suzuki,23-297,90,6,2,4,66.7,faa0cb98
-INT-World Cup,2026,2026-06-14 Netherlands-Japan,Netherlands,Bart Verbruggen,23-300,90,3,2,1,33.3,faa0cb98
-INT-World Cup,2026,2026-06-14 Sweden-Tunisia,Sweden,Kristoffer Nordfeldt,36-356,90,2,1,1,50.0,6df52cfd
-INT-World Cup,2026,2026-06-14 Sweden-Tunisia,Tunisia,Mouhib Chamakh,24-293,90,6,5,1,16.7,6df52cfd
-INT-World Cup,2026,2026-06-15 Belgium-Egypt,Belgium,Thibaut Courtois,34-035,90,3,1,2,66.7,5f18a385
-INT-World Cup,2026,2026-06-15 Belgium-Egypt,Egypt,Mostafa Shobeir,26-031,90,4,1,3,75.0,5f18a385
-INT-World Cup,2026,2026-06-15 IR Iran-New Zealand,IR Iran,Alireza Beiranvand,33-267,90,8,2,6,75.0,a039dc32
-INT-World Cup,2026,2026-06-15 IR Iran-New Zealand,New Zealand,Max Crocombe,32-307,90,4,2,2,50.0,a039dc32
-INT-World Cup,2026,2026-06-15 Saudi Arabia-Uruguay,Saudi Arabia,Mohammed Al-Owais,34-248,90,10,1,9,90.0,82de5964
-INT-World Cup,2026,2026-06-15 Saudi Arabia-Uruguay,Uruguay,Fernando Muslera,39-364,90,3,1,2,66.7,82de5964
-INT-World Cup,2026,2026-06-15 Spain-Cabo Verde,Cabo Verde,Vozinha,40-012,90,7,0,7,100.0,c100284d
-INT-World Cup,2026,2026-06-15 Spain-Cabo Verde,Spain,Unai Simón,29-004,90,1,0,1,100.0,c100284d
-INT-World Cup,2026,2026-06-16 Argentina-Algeria,Algeria,Luca Zidane,28-034,90,6,3,3,50.0,881ab666
-INT-World Cup,2026,2026-06-16 Argentina-Algeria,Argentina,Emiliano Martínez,33-287,90,0,0,0,,881ab666
-INT-World Cup,2026,2026-06-16 Austria-Jordan,Austria,Alexander Schlager,30-135,90,4,1,3,75.0,140e19d9
-INT-World Cup,2026,2026-06-16 Austria-Jordan,Jordan,Yazeed Abulaila,33-159,90,3,3,1,33.3,140e19d9
-INT-World Cup,2026,2026-06-16 France-Senegal,France,Mike Maignan,30-348,90,3,1,2,66.7,2712fac7
-INT-World Cup,2026,2026-06-16 France-Senegal,Senegal,Édouard Mendy,34-107,90,8,3,5,62.5,2712fac7
-INT-World Cup,2026,2026-06-16 Iraq-Norway,Iraq,Jalal Hassan,35-029,90,6,4,2,33.3,17eda16a
-INT-World Cup,2026,2026-06-16 Iraq-Norway,Norway,Ørjan Nyland,35-279,90,1,1,0,0.0,17eda16a
-INT-World Cup,2026,2026-06-17 England-Croatia,Croatia,Dominik Livaković,31-159,90,10,4,7,70.0,c42ce3be
-INT-World Cup,2026,2026-06-17 England-Croatia,England,Jordan Pickford,32-102,90,5,2,3,60.0,c42ce3be
-INT-World Cup,2026,2026-06-17 Ghana-Panama,Ghana,Benjamin Asare,33-339,45,3,0,3,100.0,9f71086a
-INT-World Cup,2026,2026-06-17 Ghana-Panama,Ghana,Lawrence Ati-Zigi,29-200,45,1,0,1,100.0,9f71086a
-INT-World Cup,2026,2026-06-17 Ghana-Panama,Panama,Orlando Mosquera,31-174,90,3,1,2,66.7,9f71086a
-INT-World Cup,2026,2026-06-17 Portugal-Congo DR,Congo DR,Lionel Mpasi,31-320,90,1,1,0,0.0,c95830e9
-INT-World Cup,2026,2026-06-17 Portugal-Congo DR,Portugal,Diogo Costa,26-271,90,2,1,1,50.0,c95830e9
-INT-World Cup,2026,2026-06-17 Uzbekistan-Colombia,Colombia,Camilo Vargas,37-100,90,2,1,1,50.0,3329959e
-INT-World Cup,2026,2026-06-17 Uzbekistan-Colombia,Uzbekistan,Utkir Yusupov,35-164,90,4,3,1,25.0,3329959e
-INT-World Cup,2026,2026-06-18 Canada-Qatar,Canada,Maxime Crépeau,32-038,90,0,0,0,,60dedabb
-INT-World Cup,2026,2026-06-18 Canada-Qatar,Qatar,Mahmoud Abunada,26-133,90,10,6,4,40.0,60dedabb
-INT-World Cup,2026,2026-06-18 Czechia-South Africa,Czechia,Matej Kovar,26-032,90,3,1,3,100.0,02f675d6
-INT-World Cup,2026,2026-06-18 Czechia-South Africa,South Africa,Ronwen Williams,34-148,90,3,1,2,66.7,02f675d6
-INT-World Cup,2026,2026-06-18 Mexico-Korea Republic,Korea Republic,Kim Seung-gyu,35-261,90,4,1,3,75.0,50a429da
-INT-World Cup,2026,2026-06-18 Mexico-Korea Republic,Mexico,Raúl Rangel,26-113,90,2,0,2,100.0,50a429da
-INT-World Cup,2026,2026-06-18 Switzerland-Bosnia & Herz.,Bosnia and Herzegovina,Nikola Vasilj,30-198,90,6,4,3,50.0,5134daab
-INT-World Cup,2026,2026-06-18 Switzerland-Bosnia & Herz.,Switzerland,Gregor Kobel,28-194,90,3,1,2,66.7,5134daab
-INT-World Cup,2026,2026-06-19 Brazil-Haiti,Brazil,Alisson,33-260,90,3,0,3,100.0,48cce92a
-INT-World Cup,2026,2026-06-19 Brazil-Haiti,Haiti,Johny Placide,38-141,90,5,3,2,40.0,48cce92a
-INT-World Cup,2026,2026-06-19 Scotland-Morocco,Morocco,Yassine Bounou,35-075,90,0,0,0,,2a469714
-INT-World Cup,2026,2026-06-19 Scotland-Morocco,Scotland,Angus Gunn,30-148,90,2,1,1,50.0,2a469714
-INT-World Cup,2026,2026-06-19 Türkiye-Paraguay,Paraguay,Orlando Gill,26-008,90,5,0,5,100.0,82209c60
-INT-World Cup,2026,2026-06-19 Türkiye-Paraguay,Türkiye,Uğurcan Çakır,30-075,90,2,1,1,50.0,82209c60
-INT-World Cup,2026,2026-06-19 United States-Australia,Australia,Patrick Beach,22-317,90,3,2,1,33.3,580cb771
-INT-World Cup,2026,2026-06-19 United States-Australia,United States,Matt Freese,27-290,90,2,0,2,100.0,580cb771
-INT-World Cup,2026,2026-06-20 Ecuador-Curaçao,Curaçao,Eloy Room,37-134,90,15,0,15,100.0,ca7eecdb
-INT-World Cup,2026,2026-06-20 Ecuador-Curaçao,Ecuador,Hernán Galíndez,39-082,90,3,0,3,100.0,ca7eecdb
-INT-World Cup,2026,2026-06-20 Germany-Côte d'Ivoire,Côte d'Ivoire,Yahia Fofana,25-303,90,7,2,5,71.4,43fec9f3
-INT-World Cup,2026,2026-06-20 Germany-Côte d'Ivoire,Germany,Manuel Neuer,40-085,90,2,1,1,50.0,43fec9f3
-INT-World Cup,2026,2026-06-20 Netherlands-Sweden,Netherlands,Bart Verbruggen,23-306,90,8,1,7,87.5,816f4180
-INT-World Cup,2026,2026-06-20 Netherlands-Sweden,Sweden,Kristoffer Nordfeldt,36-362,90,7,5,2,28.6,816f4180
-INT-World Cup,2026,2026-06-20 Tunisia-Japan,Japan,Zion Suzuki,23-303,90,0,0,0,,27695f4a
-INT-World Cup,2026,2026-06-20 Tunisia-Japan,Tunisia,Aymen Dahmen,29-143,90,5,4,1,20.0,27695f4a
-INT-World Cup,2026,2026-06-21 Belgium-IR Iran,Belgium,Thibaut Courtois,34-041,90,3,0,3,100.0,c96f559b
-INT-World Cup,2026,2026-06-21 Belgium-IR Iran,IR Iran,Alireza Beiranvand,33-273,90,7,0,7,100.0,c96f559b
-INT-World Cup,2026,2026-06-21 New Zealand-Egypt,Egypt,Mostafa Shobeir,26-037,90,5,1,4,80.0,d5699a16
-INT-World Cup,2026,2026-06-21 New Zealand-Egypt,New Zealand,Max Crocombe,32-313,90,7,3,4,57.1,d5699a16
-INT-World Cup,2026,2026-06-21 Spain-Saudi Arabia,Saudi Arabia,Mohammed Al-Owais,34-254,90,9,4,5,55.6,0fcac1d8
-INT-World Cup,2026,2026-06-21 Spain-Saudi Arabia,Spain,Unai Simón,29-010,90,1,0,1,100.0,0fcac1d8
-INT-World Cup,2026,2026-06-21 Uruguay-Cabo Verde,Cabo Verde,Vozinha,40-018,90,2,2,0,0.0,bc0e570b
-INT-World Cup,2026,2026-06-21 Uruguay-Cabo Verde,Uruguay,Fernando Muslera,40-005,90,4,2,2,50.0,bc0e570b
-INT-World Cup,2026,2026-06-22 Argentina-Austria,Argentina,Emiliano Martínez,33-293,90,1,0,1,100.0,e7d8a062
-INT-World Cup,2026,2026-06-22 Argentina-Austria,Austria,Alexander Schlager,30-141,90,4,2,2,50.0,e7d8a062
-INT-World Cup,2026,2026-06-22 France-Iraq,France,Mike Maignan,30-354,90,0,0,0,,31f1f241
-INT-World Cup,2026,2026-06-22 France-Iraq,Iraq,Ahmed Basil,29-307,90,5,3,2,40.0,31f1f241
-INT-World Cup,2026,2026-06-22 Jordan-Algeria,Algeria,Luca Zidane,28-040,90,4,1,3,75.0,eb19002c
-INT-World Cup,2026,2026-06-22 Jordan-Algeria,Jordan,Yazeed Abulaila,33-165,90,8,2,6,75.0,eb19002c
-INT-World Cup,2026,2026-06-22 Norway-Senegal,Norway,Ørjan Nyland,35-285,90,4,2,2,50.0,7382111b
-INT-World Cup,2026,2026-06-22 Norway-Senegal,Senegal,Mory Diaw,33-000,28,0,0,0,,7382111b
-INT-World Cup,2026,2026-06-22 Norway-Senegal,Senegal,Édouard Mendy,34-113,62,6,3,3,50.0,7382111b
+league,season,game,team,player,age,min,SoTA,GA,Saves,Save%,game_id,country_code,flag_url
+INT-World Cup,2026,2026-06-11 Korea Republic-Czechia,Czechia,Matej Kovar,26-025,90,6,2,4,66.7,beebb792,cz,https://flagcdn.com/w80/cz.png
+INT-World Cup,2026,2026-06-11 Korea Republic-Czechia,Korea Republic,Kim Seung-gyu,35-254,90,4,1,3,75.0,beebb792,kr,https://flagcdn.com/w80/kr.png
+INT-World Cup,2026,2026-06-11 Mexico-South Africa,Mexico,Raúl Rangel,26-106,90,2,0,2,100.0,3c1e3816,mx,https://flagcdn.com/w80/mx.png
+INT-World Cup,2026,2026-06-11 Mexico-South Africa,South Africa,Ronwen Williams,34-141,90,4,2,2,50.0,3c1e3816,za,https://flagcdn.com/w80/za.png
+INT-World Cup,2026,2026-06-12 Canada-Bosnia–Herz,Bosnia and Herzegovina,Nikola Vasilj,30-192,90,2,1,1,50.0,f6d2bd84,ba,https://flagcdn.com/w80/ba.png
+INT-World Cup,2026,2026-06-12 Canada-Bosnia–Herz,Canada,Maxime Crépeau,32-032,90,3,1,2,66.7,f6d2bd84,ca,https://flagcdn.com/w80/ca.png
+INT-World Cup,2026,2026-06-12 United States-Paraguay,Paraguay,Orlando Gill,26-001,90,7,4,3,42.9,f6c0596c,py,https://flagcdn.com/w80/py.png
+INT-World Cup,2026,2026-06-12 United States-Paraguay,United States,Matt Freese,27-283,90,1,1,0,0.0,f6c0596c,us,https://flagcdn.com/w80/us.png
+INT-World Cup,2026,2026-06-13 Australia-Türkiye,Australia,Patrick Beach,22-311,90,8,0,8,100.0,4ff2342a,au,https://flagcdn.com/w80/au.png
+INT-World Cup,2026,2026-06-13 Australia-Türkiye,Türkiye,Uğurcan Çakır,30-069,90,4,2,2,50.0,4ff2342a,tr,https://flagcdn.com/w80/tr.png
+INT-World Cup,2026,2026-06-13 Brazil-Morocco,Brazil,Alisson,33-254,90,3,1,2,66.7,72d993fd,br,https://flagcdn.com/w80/br.png
+INT-World Cup,2026,2026-06-13 Brazil-Morocco,Morocco,Yassine Bounou,35-069,90,5,1,4,80.0,72d993fd,ma,https://flagcdn.com/w80/ma.png
+INT-World Cup,2026,2026-06-13 Haiti-Scotland,Haiti,Johny Placide,38-135,90,2,1,1,50.0,58c3106f,ht,https://flagcdn.com/w80/ht.png
+INT-World Cup,2026,2026-06-13 Haiti-Scotland,Scotland,Angus Gunn,30-142,90,2,0,2,100.0,58c3106f,gb-sct,https://flagcdn.com/w80/gb-sct.png
+INT-World Cup,2026,2026-06-13 Qatar-Switzerland,Qatar,Mahmoud Abunada,26-128,90,6,1,5,83.3,58580af9,qa,https://flagcdn.com/w80/qa.png
+INT-World Cup,2026,2026-06-13 Qatar-Switzerland,Switzerland,Gregor Kobel,28-189,90,4,1,3,75.0,58580af9,ch,https://flagcdn.com/w80/ch.png
+INT-World Cup,2026,2026-06-14 Côte d'Ivoire-Ecuador,Côte d'Ivoire,Yahia Fofana,25-297,90,1,0,1,100.0,f8ee7eef,ci,https://flagcdn.com/w80/ci.png
+INT-World Cup,2026,2026-06-14 Côte d'Ivoire-Ecuador,Ecuador,Hernán Galíndez,39-076,90,4,1,3,75.0,f8ee7eef,ec,https://flagcdn.com/w80/ec.png
+INT-World Cup,2026,2026-06-14 Germany-Curaçao,Curaçao,Eloy Room,37-128,90,11,7,4,36.4,a2c54ed9,cw,https://flagcdn.com/w80/cw.png
+INT-World Cup,2026,2026-06-14 Germany-Curaçao,Germany,Manuel Neuer,40-079,90,2,1,1,50.0,a2c54ed9,de,https://flagcdn.com/w80/de.png
+INT-World Cup,2026,2026-06-14 Netherlands-Japan,Japan,Zion Suzuki,23-297,90,6,2,4,66.7,faa0cb98,jp,https://flagcdn.com/w80/jp.png
+INT-World Cup,2026,2026-06-14 Netherlands-Japan,Netherlands,Bart Verbruggen,23-300,90,3,2,1,33.3,faa0cb98,nl,https://flagcdn.com/w80/nl.png
+INT-World Cup,2026,2026-06-14 Sweden-Tunisia,Sweden,Kristoffer Nordfeldt,36-356,90,2,1,1,50.0,6df52cfd,se,https://flagcdn.com/w80/se.png
+INT-World Cup,2026,2026-06-14 Sweden-Tunisia,Tunisia,Mouhib Chamakh,24-293,90,6,5,1,16.7,6df52cfd,tn,https://flagcdn.com/w80/tn.png
+INT-World Cup,2026,2026-06-15 Belgium-Egypt,Belgium,Thibaut Courtois,34-035,90,3,1,2,66.7,5f18a385,be,https://flagcdn.com/w80/be.png
+INT-World Cup,2026,2026-06-15 Belgium-Egypt,Egypt,Mostafa Shobeir,26-031,90,4,1,3,75.0,5f18a385,eg,https://flagcdn.com/w80/eg.png
+INT-World Cup,2026,2026-06-15 IR Iran-New Zealand,IR Iran,Alireza Beiranvand,33-267,90,8,2,6,75.0,a039dc32,ir,https://flagcdn.com/w80/ir.png
+INT-World Cup,2026,2026-06-15 IR Iran-New Zealand,New Zealand,Max Crocombe,32-307,90,4,2,2,50.0,a039dc32,nz,https://flagcdn.com/w80/nz.png
+INT-World Cup,2026,2026-06-15 Saudi Arabia-Uruguay,Saudi Arabia,Mohammed Al-Owais,34-248,90,10,1,9,90.0,82de5964,sa,https://flagcdn.com/w80/sa.png
+INT-World Cup,2026,2026-06-15 Saudi Arabia-Uruguay,Uruguay,Fernando Muslera,39-364,90,3,1,2,66.7,82de5964,uy,https://flagcdn.com/w80/uy.png
+INT-World Cup,2026,2026-06-15 Spain-Cabo Verde,Cabo Verde,Vozinha,40-012,90,7,0,7,100.0,c100284d,cv,https://flagcdn.com/w80/cv.png
+INT-World Cup,2026,2026-06-15 Spain-Cabo Verde,Spain,Unai Simón,29-004,90,1,0,1,100.0,c100284d,es,https://flagcdn.com/w80/es.png
+INT-World Cup,2026,2026-06-16 Argentina-Algeria,Algeria,Luca Zidane,28-034,90,6,3,3,50.0,881ab666,dz,https://flagcdn.com/w80/dz.png
+INT-World Cup,2026,2026-06-16 Argentina-Algeria,Argentina,Emiliano Martínez,33-287,90,0,0,0,,881ab666,ar,https://flagcdn.com/w80/ar.png
+INT-World Cup,2026,2026-06-16 Austria-Jordan,Austria,Alexander Schlager,30-135,90,4,1,3,75.0,140e19d9,at,https://flagcdn.com/w80/at.png
+INT-World Cup,2026,2026-06-16 Austria-Jordan,Jordan,Yazeed Abulaila,33-159,90,4,3,1,25.0,140e19d9,jo,https://flagcdn.com/w80/jo.png
+INT-World Cup,2026,2026-06-16 France-Senegal,France,Mike Maignan,30-348,90,3,1,2,66.7,2712fac7,fr,https://flagcdn.com/w80/fr.png
+INT-World Cup,2026,2026-06-16 France-Senegal,Senegal,Édouard Mendy,34-107,90,8,3,5,62.5,2712fac7,sn,https://flagcdn.com/w80/sn.png
+INT-World Cup,2026,2026-06-16 Iraq-Norway,Iraq,Jalal Hassan,35-029,90,6,4,2,33.3,17eda16a,iq,https://flagcdn.com/w80/iq.png
+INT-World Cup,2026,2026-06-16 Iraq-Norway,Norway,Ørjan Nyland,35-279,90,1,1,0,0.0,17eda16a,no,https://flagcdn.com/w80/no.png
+INT-World Cup,2026,2026-06-17 England-Croatia,Croatia,Dominik Livaković,31-159,90,11,4,7,63.6,c42ce3be,hr,https://flagcdn.com/w80/hr.png
+INT-World Cup,2026,2026-06-17 England-Croatia,England,Jordan Pickford,32-102,90,5,2,3,60.0,c42ce3be,gb-eng,https://flagcdn.com/w80/gb-eng.png
+INT-World Cup,2026,2026-06-17 Ghana-Panama,Ghana,Benjamin Asare,33-339,45,3,0,3,100.0,9f71086a,gh,https://flagcdn.com/w80/gh.png
+INT-World Cup,2026,2026-06-17 Ghana-Panama,Ghana,Lawrence Ati-Zigi,29-200,45,1,0,1,100.0,9f71086a,gh,https://flagcdn.com/w80/gh.png
+INT-World Cup,2026,2026-06-17 Ghana-Panama,Panama,Orlando Mosquera,31-174,90,3,1,2,66.7,9f71086a,pa,https://flagcdn.com/w80/pa.png
+INT-World Cup,2026,2026-06-17 Portugal-Congo DR,Congo DR,Lionel Mpasi,31-320,90,1,1,0,0.0,c95830e9,cd,https://flagcdn.com/w80/cd.png
+INT-World Cup,2026,2026-06-17 Portugal-Congo DR,Portugal,Diogo Costa,26-271,90,2,1,1,50.0,c95830e9,pt,https://flagcdn.com/w80/pt.png
+INT-World Cup,2026,2026-06-17 Uzbekistan-Colombia,Colombia,Camilo Vargas,37-100,90,2,1,1,50.0,3329959e,co,https://flagcdn.com/w80/co.png
+INT-World Cup,2026,2026-06-17 Uzbekistan-Colombia,Uzbekistan,Utkir Yusupov,35-164,90,4,3,1,25.0,3329959e,uz,https://flagcdn.com/w80/uz.png
+INT-World Cup,2026,2026-06-18 Canada-Qatar,Canada,Maxime Crépeau,32-038,90,0,0,0,,60dedabb,ca,https://flagcdn.com/w80/ca.png
+INT-World Cup,2026,2026-06-18 Canada-Qatar,Qatar,Mahmoud Abunada,26-133,90,10,6,4,40.0,60dedabb,qa,https://flagcdn.com/w80/qa.png
+INT-World Cup,2026,2026-06-18 Czechia-South Africa,Czechia,Matej Kovar,26-032,90,4,1,3,75.0,02f675d6,cz,https://flagcdn.com/w80/cz.png
+INT-World Cup,2026,2026-06-18 Czechia-South Africa,South Africa,Ronwen Williams,34-148,90,3,1,2,66.7,02f675d6,za,https://flagcdn.com/w80/za.png
+INT-World Cup,2026,2026-06-18 Mexico-Korea Republic,Korea Republic,Kim Seung-gyu,35-261,90,4,1,3,75.0,50a429da,kr,https://flagcdn.com/w80/kr.png
+INT-World Cup,2026,2026-06-18 Mexico-Korea Republic,Mexico,Raúl Rangel,26-113,90,2,0,2,100.0,50a429da,mx,https://flagcdn.com/w80/mx.png
+INT-World Cup,2026,2026-06-18 Switzerland-Bosnia–Herz,Bosnia and Herzegovina,Nikola Vasilj,30-198,90,7,4,3,42.9,5134daab,ba,https://flagcdn.com/w80/ba.png
+INT-World Cup,2026,2026-06-18 Switzerland-Bosnia–Herz,Switzerland,Gregor Kobel,28-194,90,3,1,2,66.7,5134daab,ch,https://flagcdn.com/w80/ch.png
+INT-World Cup,2026,2026-06-19 Brazil-Haiti,Brazil,Alisson,33-260,90,3,0,3,100.0,48cce92a,br,https://flagcdn.com/w80/br.png
+INT-World Cup,2026,2026-06-19 Brazil-Haiti,Haiti,Johny Placide,38-141,90,5,3,2,40.0,48cce92a,ht,https://flagcdn.com/w80/ht.png
+INT-World Cup,2026,2026-06-19 Scotland-Morocco,Morocco,Yassine Bounou,35-075,90,0,0,0,,2a469714,ma,https://flagcdn.com/w80/ma.png
+INT-World Cup,2026,2026-06-19 Scotland-Morocco,Scotland,Angus Gunn,30-148,90,2,1,1,50.0,2a469714,gb-sct,https://flagcdn.com/w80/gb-sct.png
+INT-World Cup,2026,2026-06-19 Türkiye-Paraguay,Paraguay,Orlando Gill,26-008,90,5,0,5,100.0,82209c60,py,https://flagcdn.com/w80/py.png
+INT-World Cup,2026,2026-06-19 Türkiye-Paraguay,Türkiye,Uğurcan Çakır,30-075,90,2,1,1,50.0,82209c60,tr,https://flagcdn.com/w80/tr.png
+INT-World Cup,2026,2026-06-19 United States-Australia,Australia,Patrick Beach,22-317,90,3,2,1,33.3,580cb771,au,https://flagcdn.com/w80/au.png
+INT-World Cup,2026,2026-06-19 United States-Australia,United States,Matt Freese,27-290,90,2,0,2,100.0,580cb771,us,https://flagcdn.com/w80/us.png
+INT-World Cup,2026,2026-06-20 Ecuador-Curaçao,Curaçao,Eloy Room,37-134,90,15,0,15,100.0,ca7eecdb,cw,https://flagcdn.com/w80/cw.png
+INT-World Cup,2026,2026-06-20 Ecuador-Curaçao,Ecuador,Hernán Galíndez,39-082,90,3,0,3,100.0,ca7eecdb,ec,https://flagcdn.com/w80/ec.png
+INT-World Cup,2026,2026-06-20 Germany-Côte d'Ivoire,Côte d'Ivoire,Yahia Fofana,25-303,90,7,2,5,71.4,43fec9f3,ci,https://flagcdn.com/w80/ci.png
+INT-World Cup,2026,2026-06-20 Germany-Côte d'Ivoire,Germany,Manuel Neuer,40-085,90,2,1,1,50.0,43fec9f3,de,https://flagcdn.com/w80/de.png
+INT-World Cup,2026,2026-06-20 Netherlands-Sweden,Netherlands,Bart Verbruggen,23-306,90,8,1,7,87.5,816f4180,nl,https://flagcdn.com/w80/nl.png
+INT-World Cup,2026,2026-06-20 Netherlands-Sweden,Sweden,Kristoffer Nordfeldt,36-362,90,7,5,2,28.6,816f4180,se,https://flagcdn.com/w80/se.png
+INT-World Cup,2026,2026-06-20 Tunisia-Japan,Japan,Zion Suzuki,23-303,90,0,0,0,,27695f4a,jp,https://flagcdn.com/w80/jp.png
+INT-World Cup,2026,2026-06-20 Tunisia-Japan,Tunisia,Aymen Dahmen,29-143,90,5,4,1,20.0,27695f4a,tn,https://flagcdn.com/w80/tn.png
+INT-World Cup,2026,2026-06-21 Belgium-IR Iran,Belgium,Thibaut Courtois,34-041,90,3,0,3,100.0,c96f559b,be,https://flagcdn.com/w80/be.png
+INT-World Cup,2026,2026-06-21 Belgium-IR Iran,IR Iran,Alireza Beiranvand,33-273,90,7,0,7,100.0,c96f559b,ir,https://flagcdn.com/w80/ir.png
+INT-World Cup,2026,2026-06-21 New Zealand-Egypt,Egypt,Mostafa Shobeir,26-037,90,5,1,4,80.0,d5699a16,eg,https://flagcdn.com/w80/eg.png
+INT-World Cup,2026,2026-06-21 New Zealand-Egypt,New Zealand,Max Crocombe,32-313,90,7,3,4,57.1,d5699a16,nz,https://flagcdn.com/w80/nz.png
+INT-World Cup,2026,2026-06-21 Spain-Saudi Arabia,Saudi Arabia,Mohammed Al-Owais,34-254,90,9,4,5,55.6,0fcac1d8,sa,https://flagcdn.com/w80/sa.png
+INT-World Cup,2026,2026-06-21 Spain-Saudi Arabia,Spain,Unai Simón,29-010,90,1,0,1,100.0,0fcac1d8,es,https://flagcdn.com/w80/es.png
+INT-World Cup,2026,2026-06-21 Uruguay-Cabo Verde,Cabo Verde,Vozinha,40-018,90,2,2,0,0.0,bc0e570b,cv,https://flagcdn.com/w80/cv.png
+INT-World Cup,2026,2026-06-21 Uruguay-Cabo Verde,Uruguay,Fernando Muslera,40-005,90,4,2,2,50.0,bc0e570b,uy,https://flagcdn.com/w80/uy.png
+INT-World Cup,2026,2026-06-22 Argentina-Austria,Argentina,Emiliano Martínez,33-293,90,1,0,1,100.0,e7d8a062,ar,https://flagcdn.com/w80/ar.png
+INT-World Cup,2026,2026-06-22 Argentina-Austria,Austria,Alexander Schlager,30-141,90,4,2,2,50.0,e7d8a062,at,https://flagcdn.com/w80/at.png
+INT-World Cup,2026,2026-06-22 France-Iraq,France,Mike Maignan,30-354,90,0,0,0,,31f1f241,fr,https://flagcdn.com/w80/fr.png
+INT-World Cup,2026,2026-06-22 France-Iraq,Iraq,Ahmed Basil,29-307,90,5,3,2,40.0,31f1f241,iq,https://flagcdn.com/w80/iq.png
+INT-World Cup,2026,2026-06-22 Jordan-Algeria,Algeria,Luca Zidane,28-040,90,4,1,3,75.0,eb19002c,dz,https://flagcdn.com/w80/dz.png
+INT-World Cup,2026,2026-06-22 Jordan-Algeria,Jordan,Yazeed Abulaila,33-165,90,8,2,6,75.0,eb19002c,jo,https://flagcdn.com/w80/jo.png
+INT-World Cup,2026,2026-06-22 Norway-Senegal,Norway,Ørjan Nyland,35-285,90,4,2,2,50.0,7382111b,no,https://flagcdn.com/w80/no.png
+INT-World Cup,2026,2026-06-22 Norway-Senegal,Senegal,Mory Diaw,33-000,28,0,0,0,,7382111b,sn,https://flagcdn.com/w80/sn.png
+INT-World Cup,2026,2026-06-22 Norway-Senegal,Senegal,Édouard Mendy,34-113,62,6,3,3,50.0,7382111b,sn,https://flagcdn.com/w80/sn.png
+INT-World Cup,2026,2026-06-23 Colombia-Congo DR,Colombia,Camilo Vargas,37-106,90,1,0,1,100.0,f2e8741b,co,https://flagcdn.com/w80/co.png
+INT-World Cup,2026,2026-06-23 Colombia-Congo DR,Congo DR,Lionel Mpasi,31-326,90,9,1,8,88.9,f2e8741b,cd,https://flagcdn.com/w80/cd.png
+INT-World Cup,2026,2026-06-23 England-Ghana,England,Jordan Pickford,32-108,90,0,0,0,,3dac8725,gb-eng,https://flagcdn.com/w80/gb-eng.png
+INT-World Cup,2026,2026-06-23 England-Ghana,Ghana,Benjamin Asare,33-345,90,3,0,3,100.0,3dac8725,gh,https://flagcdn.com/w80/gh.png
+INT-World Cup,2026,2026-06-23 Panama-Croatia,Croatia,Dominik Livaković,31-165,90,1,0,1,100.0,28a6d770,hr,https://flagcdn.com/w80/hr.png
+INT-World Cup,2026,2026-06-23 Panama-Croatia,Panama,Orlando Mosquera,31-180,90,2,1,1,50.0,28a6d770,pa,https://flagcdn.com/w80/pa.png
+INT-World Cup,2026,2026-06-23 Portugal-Uzbekistan,Portugal,Diogo Costa,26-277,90,2,0,2,100.0,904bbbdc,pt,https://flagcdn.com/w80/pt.png
+INT-World Cup,2026,2026-06-23 Portugal-Uzbekistan,Uzbekistan,Abduvohid Nematov,25-095,90,9,5,4,44.4,904bbbdc,uz,https://flagcdn.com/w80/uz.png
+INT-World Cup,2026,2026-06-24 Bosnia–Herz-Qatar,Bosnia and Herzegovina,Nikola Vasilj,30-204,90,3,1,2,66.7,a59cb59d,ba,https://flagcdn.com/w80/ba.png
+INT-World Cup,2026,2026-06-24 Bosnia–Herz-Qatar,Qatar,Mahmoud Abunada,26-139,90,6,3,3,50.0,a59cb59d,qa,https://flagcdn.com/w80/qa.png
+INT-World Cup,2026,2026-06-24 Czechia-Mexico,Czechia,Matej Kovar,26-038,90,5,3,2,40.0,f26b468c,cz,https://flagcdn.com/w80/cz.png
+INT-World Cup,2026,2026-06-24 Czechia-Mexico,Mexico,Guillermo Ochoa,40-346,13,0,0,0,,f26b468c,mx,https://flagcdn.com/w80/mx.png
+INT-World Cup,2026,2026-06-24 Czechia-Mexico,Mexico,Raúl Rangel,26-119,77,1,0,1,100.0,f26b468c,mx,https://flagcdn.com/w80/mx.png
+INT-World Cup,2026,2026-06-24 Morocco-Haiti,Haiti,Johny Placide,38-146,90,12,4,8,66.7,2307866a,ht,https://flagcdn.com/w80/ht.png
+INT-World Cup,2026,2026-06-24 Morocco-Haiti,Morocco,Yassine Bounou,35-080,90,3,2,1,33.3,2307866a,ma,https://flagcdn.com/w80/ma.png
+INT-World Cup,2026,2026-06-24 Scotland-Brazil,Brazil,Alisson,33-265,90,5,0,5,100.0,0ef71ab6,br,https://flagcdn.com/w80/br.png
+INT-World Cup,2026,2026-06-24 Scotland-Brazil,Scotland,Angus Gunn,30-153,90,8,3,5,62.5,0ef71ab6,gb-sct,https://flagcdn.com/w80/gb-sct.png
+INT-World Cup,2026,2026-06-24 South Africa-Korea Republic,Korea Republic,Kim Seung-gyu,35-267,90,4,1,3,75.0,311661a5,kr,https://flagcdn.com/w80/kr.png
+INT-World Cup,2026,2026-06-24 South Africa-Korea Republic,South Africa,Ronwen Williams,34-154,90,2,0,2,100.0,311661a5,za,https://flagcdn.com/w80/za.png
+INT-World Cup,2026,2026-06-24 Switzerland-Canada,Canada,Maxime Crépeau,32-044,90,4,2,2,50.0,199a57aa,ca,https://flagcdn.com/w80/ca.png
+INT-World Cup,2026,2026-06-24 Switzerland-Canada,Switzerland,Gregor Kobel,28-200,90,7,1,6,85.7,199a57aa,ch,https://flagcdn.com/w80/ch.png
+INT-World Cup,2026,2026-06-25 Curaçao-Côte d'Ivoire,Curaçao,Eloy Room,37-139,90,3,2,1,33.3,89835aff,cw,https://flagcdn.com/w80/cw.png
+INT-World Cup,2026,2026-06-25 Curaçao-Côte d'Ivoire,Côte d'Ivoire,Yahia Fofana,25-308,90,2,0,2,100.0,89835aff,ci,https://flagcdn.com/w80/ci.png
+INT-World Cup,2026,2026-06-25 Ecuador-Germany,Ecuador,Hernán Galíndez,39-087,90,3,1,2,66.7,cc4ebc5b,ec,https://flagcdn.com/w80/ec.png
+INT-World Cup,2026,2026-06-25 Ecuador-Germany,Germany,Manuel Neuer,40-090,90,3,2,1,33.3,cc4ebc5b,de,https://flagcdn.com/w80/de.png
+INT-World Cup,2026,2026-06-25 Japan-Sweden,Japan,Zion Suzuki,23-308,90,5,1,4,80.0,994aa701,jp,https://flagcdn.com/w80/jp.png
+INT-World Cup,2026,2026-06-25 Japan-Sweden,Sweden,Jacob Widell Zetterström,27-349,90,3,1,2,66.7,994aa701,se,https://flagcdn.com/w80/se.png
+INT-World Cup,2026,2026-06-25 Paraguay-Australia,Australia,Patrick Beach,22-323,90,2,0,2,100.0,c8fa19f5,au,https://flagcdn.com/w80/au.png
+INT-World Cup,2026,2026-06-25 Paraguay-Australia,Paraguay,Orlando Gill,26-014,90,5,0,5,100.0,c8fa19f5,py,https://flagcdn.com/w80/py.png
+INT-World Cup,2026,2026-06-25 Tunisia-Netherlands,Netherlands,Bart Verbruggen,23-311,90,4,1,3,75.0,63b14e23,nl,https://flagcdn.com/w80/nl.png
+INT-World Cup,2026,2026-06-25 Tunisia-Netherlands,Tunisia,Aymen Dahmen,29-148,90,7,3,4,57.1,63b14e23,tn,https://flagcdn.com/w80/tn.png
+INT-World Cup,2026,2026-06-25 Türkiye-United States,Türkiye,Uğurcan Çakır,30-081,90,7,2,5,71.4,358fd0fc,tr,https://flagcdn.com/w80/tr.png
+INT-World Cup,2026,2026-06-25 Türkiye-United States,United States,Matt Turner,32-001,90,3,3,0,0.0,358fd0fc,us,https://flagcdn.com/w80/us.png
+INT-World Cup,2026,2026-06-26 Cabo Verde-Saudi Arabia,Cabo Verde,Vozinha,40-023,90,3,0,3,100.0,8d6d70b6,cv,https://flagcdn.com/w80/cv.png
+INT-World Cup,2026,2026-06-26 Cabo Verde-Saudi Arabia,Saudi Arabia,Mohammed Al-Owais,34-259,90,2,0,2,100.0,8d6d70b6,sa,https://flagcdn.com/w80/sa.png
+INT-World Cup,2026,2026-06-26 Egypt-IR Iran,Egypt,Mostafa Shobeir,26-042,90,2,1,1,50.0,acc93b55,eg,https://flagcdn.com/w80/eg.png
+INT-World Cup,2026,2026-06-26 Egypt-IR Iran,IR Iran,Alireza Beiranvand,33-278,90,3,1,2,66.7,acc93b55,ir,https://flagcdn.com/w80/ir.png
+INT-World Cup,2026,2026-06-26 New Zealand-Belgium,Belgium,Thibaut Courtois,34-046,90,2,1,1,50.0,f527457d,be,https://flagcdn.com/w80/be.png
+INT-World Cup,2026,2026-06-26 New Zealand-Belgium,New Zealand,Max Crocombe,32-318,90,10,5,5,50.0,f527457d,nz,https://flagcdn.com/w80/nz.png
+INT-World Cup,2026,2026-06-26 Norway-France,France,Mike Maignan,30-358,90,3,1,2,66.7,1bcdcfc8,fr,https://flagcdn.com/w80/fr.png
+INT-World Cup,2026,2026-06-26 Norway-France,Norway,Egil Selvik,28-331,90,9,4,5,55.6,1bcdcfc8,no,https://flagcdn.com/w80/no.png
+INT-World Cup,2026,2026-06-26 Senegal-Iraq,Iraq,Ahmed Basil,29-311,45,2,1,1,50.0,583c1910,iq,https://flagcdn.com/w80/iq.png
+INT-World Cup,2026,2026-06-26 Senegal-Iraq,Iraq,Jalal Hassan,35-039,45,10,4,6,60.0,583c1910,iq,https://flagcdn.com/w80/iq.png
+INT-World Cup,2026,2026-06-26 Senegal-Iraq,Senegal,Mory Diaw,33-004,90,1,0,1,100.0,583c1910,sn,https://flagcdn.com/w80/sn.png
+INT-World Cup,2026,2026-06-26 Uruguay-Spain,Spain,Unai Simón,29-015,90,2,0,1,100.0,48dd64d5,es,https://flagcdn.com/w80/es.png
+INT-World Cup,2026,2026-06-26 Uruguay-Spain,Uruguay,Fernando Muslera,40-010,45,1,1,0,0.0,48dd64d5,uy,https://flagcdn.com/w80/uy.png
+INT-World Cup,2026,2026-06-26 Uruguay-Spain,Uruguay,Sergio Rochet,33-095,45,0,0,0,,48dd64d5,uy,https://flagcdn.com/w80/uy.png
+INT-World Cup,2026,2026-06-27 Algeria-Austria,Algeria,Oussama Benbot,31-259,90,3,3,0,0.0,79a8f8c8,dz,https://flagcdn.com/w80/dz.png
+INT-World Cup,2026,2026-06-27 Algeria-Austria,Austria,Alexander Schlager,30-146,90,5,3,2,40.0,79a8f8c8,at,https://flagcdn.com/w80/at.png
+INT-World Cup,2026,2026-06-27 Colombia-Portugal,Colombia,Camilo Vargas,37-110,90,2,0,2,100.0,ded93e98,co,https://flagcdn.com/w80/co.png
+INT-World Cup,2026,2026-06-27 Colombia-Portugal,Portugal,Diogo Costa,26-281,90,6,0,6,100.0,ded93e98,pt,https://flagcdn.com/w80/pt.png
+INT-World Cup,2026,2026-06-27 Congo DR-Uzbekistan,Congo DR,Lionel Mpasi,31-330,90,2,1,1,50.0,6287f9c7,cd,https://flagcdn.com/w80/cd.png
+INT-World Cup,2026,2026-06-27 Congo DR-Uzbekistan,Uzbekistan,Abduvohid Nematov,25-099,90,4,3,1,25.0,6287f9c7,uz,https://flagcdn.com/w80/uz.png
+INT-World Cup,2026,2026-06-27 Croatia-Ghana,Croatia,Dominik Livaković,31-169,90,1,1,0,0.0,a051b2ea,hr,https://flagcdn.com/w80/hr.png
+INT-World Cup,2026,2026-06-27 Croatia-Ghana,Ghana,Benjamin Asare,33-349,90,4,2,2,50.0,a051b2ea,gh,https://flagcdn.com/w80/gh.png
+INT-World Cup,2026,2026-06-27 Jordan-Argentina,Argentina,Emiliano Martínez,33-298,90,1,1,0,0.0,5ec98037,ar,https://flagcdn.com/w80/ar.png
+INT-World Cup,2026,2026-06-27 Jordan-Argentina,Jordan,Yazeed Abulaila,33-170,90,4,3,1,25.0,5ec98037,jo,https://flagcdn.com/w80/jo.png
+INT-World Cup,2026,2026-06-27 Panama-England,England,Jordan Pickford,32-112,90,2,0,2,100.0,d7e30dec,gb-eng,https://flagcdn.com/w80/gb-eng.png
+INT-World Cup,2026,2026-06-27 Panama-England,Panama,Orlando Mosquera,31-184,90,6,2,4,66.7,d7e30dec,pa,https://flagcdn.com/w80/pa.png
+INT-World Cup,2026,2026-06-28 South Africa-Canada,Canada,Maxime Crépeau,32-048,90,1,0,1,100.0,c4104726,ca,https://flagcdn.com/w80/ca.png
+INT-World Cup,2026,2026-06-28 South Africa-Canada,South Africa,Ronwen Williams,34-158,90,6,1,5,83.3,c4104726,za,https://flagcdn.com/w80/za.png
+INT-World Cup,2026,2026-06-29 Brazil-Japan,Brazil,Alisson,33-270,90,2,1,1,50.0,58289f35,br,https://flagcdn.com/w80/br.png
+INT-World Cup,2026,2026-06-29 Brazil-Japan,Japan,Zion Suzuki,23-312,90,6,2,4,66.7,58289f35,jp,https://flagcdn.com/w80/jp.png
+INT-World Cup,2026,2026-06-29 Germany-Paraguay,Germany,Manuel Neuer,40-094,120,3,1,2,66.7,89da405b,de,https://flagcdn.com/w80/de.png
+INT-World Cup,2026,2026-06-29 Germany-Paraguay,Paraguay,Orlando Gill,26-018,120,7,1,6,85.7,89da405b,py,https://flagcdn.com/w80/py.png
+INT-World Cup,2026,2026-06-29 Netherlands-Morocco,Morocco,Yassine Bounou,35-085,120,2,1,1,50.0,bebca560,ma,https://flagcdn.com/w80/ma.png
+INT-World Cup,2026,2026-06-29 Netherlands-Morocco,Netherlands,Bart Verbruggen,23-315,120,6,1,5,83.3,bebca560,nl,https://flagcdn.com/w80/nl.png
+INT-World Cup,2026,2026-06-30 Côte d'Ivoire-Norway,Côte d'Ivoire,Yahia Fofana,25-313,90,3,2,1,33.3,d280258e,ci,https://flagcdn.com/w80/ci.png
+INT-World Cup,2026,2026-06-30 Côte d'Ivoire-Norway,Norway,Ørjan Nyland,35-293,90,5,1,4,80.0,d280258e,no,https://flagcdn.com/w80/no.png
+INT-World Cup,2026,2026-06-30 France-Sweden,France,Mike Maignan,30-362,90,3,0,3,100.0,da47849b,fr,https://flagcdn.com/w80/fr.png
+INT-World Cup,2026,2026-06-30 France-Sweden,Sweden,Jacob Widell Zetterström,27-354,90,12,3,9,75.0,da47849b,se,https://flagcdn.com/w80/se.png
+INT-World Cup,2026,2026-06-30 Mexico-Ecuador,Ecuador,Hernán Galíndez,39-092,90,3,2,1,33.3,5eca3d3a,ec,https://flagcdn.com/w80/ec.png
+INT-World Cup,2026,2026-06-30 Mexico-Ecuador,Mexico,Raúl Rangel,26-125,90,1,0,1,100.0,5eca3d3a,mx,https://flagcdn.com/w80/mx.png

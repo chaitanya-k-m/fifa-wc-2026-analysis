@@ -5,8 +5,8 @@ INT-World Cup,2026,2026-06-11 Korea Republic-Czechia,Czechia,Matej Kovar,26-025,
 INT-World Cup,2026,2026-06-11 Korea Republic-Czechia,Korea Republic,Kim Seung-gyu,35-254,90,4,1,3,75.0,beebb792
 INT-World Cup,2026,2026-06-11 Mexico-South Africa,Mexico,Raúl Rangel,26-106,90,2,0,2,100.0,3c1e3816
 INT-World Cup,2026,2026-06-11 Mexico-South Africa,South Africa,Ronwen Williams,34-141,90,4,2,2,50.0,3c1e3816
-INT-World Cup,2026,2026-06-12 Canada-Bosnia & Herz.,Bosnia and Herzegovina,Nikola Vasilj,30-192,90,2,1,1,50.0,f6d2bd84
-INT-World Cup,2026,2026-06-12 Canada-Bosnia & Herz.,Canada,Maxime Crépeau,32-032,90,3,1,2,66.7,f6d2bd84
+INT-World Cup,2026,2026-06-12 Canada-Bosnia–Herz,Bosnia and Herzegovina,Nikola Vasilj,30-192,90,2,1,1,50.0,f6d2bd84
+INT-World Cup,2026,2026-06-12 Canada-Bosnia–Herz,Canada,Maxime Crépeau,32-032,90,3,1,2,66.7,f6d2bd84
 INT-World Cup,2026,2026-06-12 United States-Paraguay,Paraguay,Orlando Gill,26-001,90,7,4,3,42.9,f6c0596c
 INT-World Cup,2026,2026-06-12 United States-Paraguay,United States,Matt Freese,27-283,90,1,1,0,0.0,f6c0596c
 INT-World Cup,2026,2026-06-13 Australia-Türkiye,Australia,Patrick Beach,22-311,90,8,0,8,100.0,4ff2342a
@@ -15,11 +15,11 @@ INT-World Cup,2026,2026-06-13 Brazil-Morocco,Brazil,Alisson,33-254,90,3,1,2,66.7
 INT-World Cup,2026,2026-06-13 Brazil-Morocco,Morocco,Yassine Bounou,35-069,90,5,1,4,80.0,72d993fd
 INT-World Cup,2026,2026-06-13 Haiti-Scotland,Haiti,Johny Placide,38-135,90,2,1,1,50.0,58c3106f
 INT-World Cup,2026,2026-06-13 Haiti-Scotland,Scotland,Angus Gunn,30-142,90,2,0,2,100.0,58c3106f
-INT-World Cup,2026,2026-06-13 Qatar-Switzerland,Qatar,Mahmoud Abunada,26-128,90,5,1,5,100.0,58580af9
+INT-World Cup,2026,2026-06-13 Qatar-Switzerland,Qatar,Mahmoud Abunada,26-128,90,6,1,5,83.3,58580af9
 INT-World Cup,2026,2026-06-13 Qatar-Switzerland,Switzerland,Gregor Kobel,28-189,90,4,1,3,75.0,58580af9
 INT-World Cup,2026,2026-06-14 Côte d'Ivoire-Ecuador,Côte d'Ivoire,Yahia Fofana,25-297,90,1,0,1,100.0,f8ee7eef
 INT-World Cup,2026,2026-06-14 Côte d'Ivoire-Ecuador,Ecuador,Hernán Galíndez,39-076,90,4,1,3,75.0,f8ee7eef
-INT-World Cup,2026,2026-06-14 Germany-Curaçao,Curaçao,Eloy Room,37-128,90,10,7,4,40.0,a2c54ed9
+INT-World Cup,2026,2026-06-14 Germany-Curaçao,Curaçao,Eloy Room,37-128,90,11,7,4,36.4,a2c54ed9
 INT-World Cup,2026,2026-06-14 Germany-Curaçao,Germany,Manuel Neuer,40-079,90,2,1,1,50.0,a2c54ed9
 INT-World Cup,2026,2026-06-14 Netherlands-Japan,Japan,Zion Suzuki,23-297,90,6,2,4,66.7,faa0cb98
 INT-World Cup,2026,2026-06-14 Netherlands-Japan,Netherlands,Bart Verbruggen,23-300,90,3,2,1,33.3,faa0cb98
@@ -36,12 +36,12 @@ INT-World Cup,2026,2026-06-15 Spain-Cabo Verde,Spain,Unai Simón,29-004,90,1,0,1
 INT-World Cup,2026,2026-06-16 Argentina-Algeria,Algeria,Luca Zidane,28-034,90,6,3,3,50.0,881ab666
 INT-World Cup,2026,2026-06-16 Argentina-Algeria,Argentina,Emiliano Martínez,33-287,90,0,0,0,,881ab666
 INT-World Cup,2026,2026-06-16 Austria-Jordan,Austria,Alexander Schlager,30-135,90,4,1,3,75.0,140e19d9
-INT-World Cup,2026,2026-06-16 Austria-Jordan,Jordan,Yazeed Abulaila,33-159,90,3,3,1,33.3,140e19d9
+INT-World Cup,2026,2026-06-16 Austria-Jordan,Jordan,Yazeed Abulaila,33-159,90,4,3,1,25.0,140e19d9
 INT-World Cup,2026,2026-06-16 France-Senegal,France,Mike Maignan,30-348,90,3,1,2,66.7,2712fac7
 INT-World Cup,2026,2026-06-16 France-Senegal,Senegal,Édouard Mendy,34-107,90,8,3,5,62.5,2712fac7
 INT-World Cup,2026,2026-06-16 Iraq-Norway,Iraq,Jalal Hassan,35-029,90,6,4,2,33.3,17eda16a
 INT-World Cup,2026,2026-06-16 Iraq-Norway,Norway,Ørjan Nyland,35-279,90,1,1,0,0.0,17eda16a
-INT-World Cup,2026,2026-06-17 England-Croatia,Croatia,Dominik Livaković,31-159,90,10,4,7,70.0,c42ce3be
+INT-World Cup,2026,2026-06-17 England-Croatia,Croatia,Dominik Livaković,31-159,90,11,4,7,63.6,c42ce3be
 INT-World Cup,2026,2026-06-17 England-Croatia,England,Jordan Pickford,32-102,90,5,2,3,60.0,c42ce3be
 INT-World Cup,2026,2026-06-17 Ghana-Panama,Ghana,Benjamin Asare,33-339,45,3,0,3,100.0,9f71086a
 INT-World Cup,2026,2026-06-17 Ghana-Panama,Ghana,Lawrence Ati-Zigi,29-200,45,1,0,1,100.0,9f71086a
@@ -52,12 +52,12 @@ INT-World Cup,2026,2026-06-17 Uzbekistan-Colombia,Colombia,Camilo Vargas,37-100,
 INT-World Cup,2026,2026-06-17 Uzbekistan-Colombia,Uzbekistan,Utkir Yusupov,35-164,90,4,3,1,25.0,3329959e
 INT-World Cup,2026,2026-06-18 Canada-Qatar,Canada,Maxime Crépeau,32-038,90,0,0,0,,60dedabb
 INT-World Cup,2026,2026-06-18 Canada-Qatar,Qatar,Mahmoud Abunada,26-133,90,10,6,4,40.0,60dedabb
-INT-World Cup,2026,2026-06-18 Czechia-South Africa,Czechia,Matej Kovar,26-032,90,3,1,3,100.0,02f675d6
+INT-World Cup,2026,2026-06-18 Czechia-South Africa,Czechia,Matej Kovar,26-032,90,4,1,3,75.0,02f675d6
 INT-World Cup,2026,2026-06-18 Czechia-South Africa,South Africa,Ronwen Williams,34-148,90,3,1,2,66.7,02f675d6
 INT-World Cup,2026,2026-06-18 Mexico-Korea Republic,Korea Republic,Kim Seung-gyu,35-261,90,4,1,3,75.0,50a429da
 INT-World Cup,2026,2026-06-18 Mexico-Korea Republic,Mexico,Raúl Rangel,26-113,90,2,0,2,100.0,50a429da
-INT-World Cup,2026,2026-06-18 Switzerland-Bosnia & Herz.,Bosnia and Herzegovina,Nikola Vasilj,30-198,90,6,4,3,50.0,5134daab
-INT-World Cup,2026,2026-06-18 Switzerland-Bosnia & Herz.,Switzerland,Gregor Kobel,28-194,90,3,1,2,66.7,5134daab
+INT-World Cup,2026,2026-06-18 Switzerland-Bosnia–Herz,Bosnia and Herzegovina,Nikola Vasilj,30-198,90,7,4,3,42.9,5134daab
+INT-World Cup,2026,2026-06-18 Switzerland-Bosnia–Herz,Switzerland,Gregor Kobel,28-194,90,3,1,2,66.7,5134daab
 INT-World Cup,2026,2026-06-19 Brazil-Haiti,Brazil,Alisson,33-260,90,3,0,3,100.0,48cce92a
 INT-World Cup,2026,2026-06-19 Brazil-Haiti,Haiti,Johny Placide,38-141,90,5,3,2,40.0,48cce92a
 INT-World Cup,2026,2026-06-19 Scotland-Morocco,Morocco,Yassine Bounou,35-075,90,0,0,0,,2a469714
@@ -91,3 +91,76 @@ INT-World Cup,2026,2026-06-22 Jordan-Algeria,Jordan,Yazeed Abulaila,33-165,90,8,
 INT-World Cup,2026,2026-06-22 Norway-Senegal,Norway,Ørjan Nyland,35-285,90,4,2,2,50.0,7382111b
 INT-World Cup,2026,2026-06-22 Norway-Senegal,Senegal,Mory Diaw,33-000,28,0,0,0,,7382111b
 INT-World Cup,2026,2026-06-22 Norway-Senegal,Senegal,Édouard Mendy,34-113,62,6,3,3,50.0,7382111b
+INT-World Cup,2026,2026-06-23 Colombia-Congo DR,Colombia,Camilo Vargas,37-106,90,1,0,1,100.0,f2e8741b
+INT-World Cup,2026,2026-06-23 Colombia-Congo DR,Congo DR,Lionel Mpasi,31-326,90,9,1,8,88.9,f2e8741b
+INT-World Cup,2026,2026-06-23 England-Ghana,England,Jordan Pickford,32-108,90,0,0,0,,3dac8725
+INT-World Cup,2026,2026-06-23 England-Ghana,Ghana,Benjamin Asare,33-345,90,3,0,3,100.0,3dac8725
+INT-World Cup,2026,2026-06-23 Panama-Croatia,Croatia,Dominik Livaković,31-165,90,1,0,1,100.0,28a6d770
+INT-World Cup,2026,2026-06-23 Panama-Croatia,Panama,Orlando Mosquera,31-180,90,2,1,1,50.0,28a6d770
+INT-World Cup,2026,2026-06-23 Portugal-Uzbekistan,Portugal,Diogo Costa,26-277,90,2,0,2,100.0,904bbbdc
+INT-World Cup,2026,2026-06-23 Portugal-Uzbekistan,Uzbekistan,Abduvohid Nematov,25-095,90,9,5,4,44.4,904bbbdc
+INT-World Cup,2026,2026-06-24 Bosnia–Herz-Qatar,Bosnia and Herzegovina,Nikola Vasilj,30-204,90,3,1,2,66.7,a59cb59d
+INT-World Cup,2026,2026-06-24 Bosnia–Herz-Qatar,Qatar,Mahmoud Abunada,26-139,90,6,3,3,50.0,a59cb59d
+INT-World Cup,2026,2026-06-24 Czechia-Mexico,Czechia,Matej Kovar,26-038,90,5,3,2,40.0,f26b468c
+INT-World Cup,2026,2026-06-24 Czechia-Mexico,Mexico,Guillermo Ochoa,40-346,13,0,0,0,,f26b468c
+INT-World Cup,2026,2026-06-24 Czechia-Mexico,Mexico,Raúl Rangel,26-119,77,1,0,1,100.0,f26b468c
+INT-World Cup,2026,2026-06-24 Morocco-Haiti,Haiti,Johny Placide,38-146,90,12,4,8,66.7,2307866a
+INT-World Cup,2026,2026-06-24 Morocco-Haiti,Morocco,Yassine Bounou,35-080,90,3,2,1,33.3,2307866a
+INT-World Cup,2026,2026-06-24 Scotland-Brazil,Brazil,Alisson,33-265,90,5,0,5,100.0,0ef71ab6
+INT-World Cup,2026,2026-06-24 Scotland-Brazil,Scotland,Angus Gunn,30-153,90,8,3,5,62.5,0ef71ab6
+INT-World Cup,2026,2026-06-24 South Africa-Korea Republic,Korea Republic,Kim Seung-gyu,35-267,90,4,1,3,75.0,311661a5
+INT-World Cup,2026,2026-06-24 South Africa-Korea Republic,South Africa,Ronwen Williams,34-154,90,2,0,2,100.0,311661a5
+INT-World Cup,2026,2026-06-24 Switzerland-Canada,Canada,Maxime Crépeau,32-044,90,4,2,2,50.0,199a57aa
+INT-World Cup,2026,2026-06-24 Switzerland-Canada,Switzerland,Gregor Kobel,28-200,90,7,1,6,85.7,199a57aa
+INT-World Cup,2026,2026-06-25 Curaçao-Côte d'Ivoire,Curaçao,Eloy Room,37-139,90,3,2,1,33.3,89835aff
+INT-World Cup,2026,2026-06-25 Curaçao-Côte d'Ivoire,Côte d'Ivoire,Yahia Fofana,25-308,90,2,0,2,100.0,89835aff
+INT-World Cup,2026,2026-06-25 Ecuador-Germany,Ecuador,Hernán Galíndez,39-087,90,3,1,2,66.7,cc4ebc5b
+INT-World Cup,2026,2026-06-25 Ecuador-Germany,Germany,Manuel Neuer,40-090,90,3,2,1,33.3,cc4ebc5b
+INT-World Cup,2026,2026-06-25 Japan-Sweden,Japan,Zion Suzuki,23-308,90,5,1,4,80.0,994aa701
+INT-World Cup,2026,2026-06-25 Japan-Sweden,Sweden,Jacob Widell Zetterström,27-349,90,3,1,2,66.7,994aa701
+INT-World Cup,2026,2026-06-25 Paraguay-Australia,Australia,Patrick Beach,22-323,90,2,0,2,100.0,c8fa19f5
+INT-World Cup,2026,2026-06-25 Paraguay-Australia,Paraguay,Orlando Gill,26-014,90,5,0,5,100.0,c8fa19f5
+INT-World Cup,2026,2026-06-25 Tunisia-Netherlands,Netherlands,Bart Verbruggen,23-311,90,4,1,3,75.0,63b14e23
+INT-World Cup,2026,2026-06-25 Tunisia-Netherlands,Tunisia,Aymen Dahmen,29-148,90,7,3,4,57.1,63b14e23
+INT-World Cup,2026,2026-06-25 Türkiye-United States,Türkiye,Uğurcan Çakır,30-081,90,7,2,5,71.4,358fd0fc
+INT-World Cup,2026,2026-06-25 Türkiye-United States,United States,Matt Turner,32-001,90,3,3,0,0.0,358fd0fc
+INT-World Cup,2026,2026-06-26 Cabo Verde-Saudi Arabia,Cabo Verde,Vozinha,40-023,90,3,0,3,100.0,8d6d70b6
+INT-World Cup,2026,2026-06-26 Cabo Verde-Saudi Arabia,Saudi Arabia,Mohammed Al-Owais,34-259,90,2,0,2,100.0,8d6d70b6
+INT-World Cup,2026,2026-06-26 Egypt-IR Iran,Egypt,Mostafa Shobeir,26-042,90,2,1,1,50.0,acc93b55
+INT-World Cup,2026,2026-06-26 Egypt-IR Iran,IR Iran,Alireza Beiranvand,33-278,90,3,1,2,66.7,acc93b55
+INT-World Cup,2026,2026-06-26 New Zealand-Belgium,Belgium,Thibaut Courtois,34-046,90,2,1,1,50.0,f527457d
+INT-World Cup,2026,2026-06-26 New Zealand-Belgium,New Zealand,Max Crocombe,32-318,90,10,5,5,50.0,f527457d
+INT-World Cup,2026,2026-06-26 Norway-France,France,Mike Maignan,30-358,90,3,1,2,66.7,1bcdcfc8
+INT-World Cup,2026,2026-06-26 Norway-France,Norway,Egil Selvik,28-331,90,9,4,5,55.6,1bcdcfc8
+INT-World Cup,2026,2026-06-26 Senegal-Iraq,Iraq,Ahmed Basil,29-311,45,2,1,1,50.0,583c1910
+INT-World Cup,2026,2026-06-26 Senegal-Iraq,Iraq,Jalal Hassan,35-039,45,10,4,6,60.0,583c1910
+INT-World Cup,2026,2026-06-26 Senegal-Iraq,Senegal,Mory Diaw,33-004,90,1,0,1,100.0,583c1910
+INT-World Cup,2026,2026-06-26 Uruguay-Spain,Spain,Unai Simón,29-015,90,2,0,1,100.0,48dd64d5
+INT-World Cup,2026,2026-06-26 Uruguay-Spain,Uruguay,Fernando Muslera,40-010,45,1,1,0,0.0,48dd64d5
+INT-World Cup,2026,2026-06-26 Uruguay-Spain,Uruguay,Sergio Rochet,33-095,45,0,0,0,,48dd64d5
+INT-World Cup,2026,2026-06-27 Algeria-Austria,Algeria,Oussama Benbot,31-259,90,3,3,0,0.0,79a8f8c8
+INT-World Cup,2026,2026-06-27 Algeria-Austria,Austria,Alexander Schlager,30-146,90,5,3,2,40.0,79a8f8c8
+INT-World Cup,2026,2026-06-27 Colombia-Portugal,Colombia,Camilo Vargas,37-110,90,2,0,2,100.0,ded93e98
+INT-World Cup,2026,2026-06-27 Colombia-Portugal,Portugal,Diogo Costa,26-281,90,6,0,6,100.0,ded93e98
+INT-World Cup,2026,2026-06-27 Congo DR-Uzbekistan,Congo DR,Lionel Mpasi,31-330,90,2,1,1,50.0,6287f9c7
+INT-World Cup,2026,2026-06-27 Congo DR-Uzbekistan,Uzbekistan,Abduvohid Nematov,25-099,90,4,3,1,25.0,6287f9c7
+INT-World Cup,2026,2026-06-27 Croatia-Ghana,Croatia,Dominik Livaković,31-169,90,1,1,0,0.0,a051b2ea
+INT-World Cup,2026,2026-06-27 Croatia-Ghana,Ghana,Benjamin Asare,33-349,90,4,2,2,50.0,a051b2ea
+INT-World Cup,2026,2026-06-27 Jordan-Argentina,Argentina,Emiliano Martínez,33-298,90,1,1,0,0.0,5ec98037
+INT-World Cup,2026,2026-06-27 Jordan-Argentina,Jordan,Yazeed Abulaila,33-170,90,4,3,1,25.0,5ec98037
+INT-World Cup,2026,2026-06-27 Panama-England,England,Jordan Pickford,32-112,90,2,0,2,100.0,d7e30dec
+INT-World Cup,2026,2026-06-27 Panama-England,Panama,Orlando Mosquera,31-184,90,6,2,4,66.7,d7e30dec
+INT-World Cup,2026,2026-06-28 South Africa-Canada,Canada,Maxime Crépeau,32-048,90,1,0,1,100.0,c4104726
+INT-World Cup,2026,2026-06-28 South Africa-Canada,South Africa,Ronwen Williams,34-158,90,6,1,5,83.3,c4104726
+INT-World Cup,2026,2026-06-29 Brazil-Japan,Brazil,Alisson,33-270,90,2,1,1,50.0,58289f35
+INT-World Cup,2026,2026-06-29 Brazil-Japan,Japan,Zion Suzuki,23-312,90,6,2,4,66.7,58289f35
+INT-World Cup,2026,2026-06-29 Germany-Paraguay,Germany,Manuel Neuer,40-094,120,3,1,2,66.7,89da405b
+INT-World Cup,2026,2026-06-29 Germany-Paraguay,Paraguay,Orlando Gill,26-018,120,7,1,6,85.7,89da405b
+INT-World Cup,2026,2026-06-29 Netherlands-Morocco,Morocco,Yassine Bounou,35-085,120,2,1,1,50.0,bebca560
+INT-World Cup,2026,2026-06-29 Netherlands-Morocco,Netherlands,Bart Verbruggen,23-315,120,6,1,5,83.3,bebca560
+INT-World Cup,2026,2026-06-30 Côte d'Ivoire-Norway,Côte d'Ivoire,Yahia Fofana,25-313,90,3,2,1,33.3,d280258e
+INT-World Cup,2026,2026-06-30 Côte d'Ivoire-Norway,Norway,Ørjan Nyland,35-293,90,5,1,4,80.0,d280258e
+INT-World Cup,2026,2026-06-30 France-Sweden,France,Mike Maignan,30-362,90,3,0,3,100.0,da47849b
+INT-World Cup,2026,2026-06-30 France-Sweden,Sweden,Jacob Widell Zetterström,27-354,90,12,3,9,75.0,da47849b
+INT-World Cup,2026,2026-06-30 Mexico-Ecuador,Ecuador,Hernán Galíndez,39-092,90,3,2,1,33.3,5eca3d3a
+INT-World Cup,2026,2026-06-30 Mexico-Ecuador,Mexico,Raúl Rangel,26-125,90,1,0,1,100.0,5eca3d3a
