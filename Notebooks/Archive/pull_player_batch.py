@@ -6,7 +6,7 @@ schedule = fbref.read_schedule()
 played = schedule[schedule["score"].notna()].copy()
 match_ids = played["game_id"].dropna().tolist()
 
-out_dir = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data"
+out_dir = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data"
 
 print(f"Pulling remaining valid stat types for {len(match_ids)} matches.\n")
 

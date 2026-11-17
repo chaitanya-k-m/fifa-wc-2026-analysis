@@ -1,12 +1,14 @@
 """
 FIFA WC 2026 — LIVE STATS CLEANING
-Flatten multi-header scraped CSVs -> clean Power BI-ready tables.
+Flatten multi-header scraped CSVs -> clean Power BI-ready tables,
+then enrich with country flag columns (step 6).
 """
 
 import pandas as pd
 import os
+from add_flag_columns import run as add_flags
 
-DATA = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data"
+DATA = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data"
 CLEAN = os.path.join(DATA, "Clean")
 os.makedirs(CLEAN, exist_ok=True)
 
@@ -50,7 +52,7 @@ pss.to_csv(f"{CLEAN}\\player_season_clean.csv",
            index=False, encoding="utf-8-sig")
 print(f"  -> {pss.shape}")
 
-# 4. TEAM SHOOTING  (WC group stage only)
+# 4. TEAM SHOOTING  (WC finals only: June 11 onward = group + knockouts)
 print("Cleaning team_shooting...")
 tsh = pd.read_csv(f"{DATA}\\team_shooting_raw.csv",
                   header=[0, 1], index_col=[0, 1, 2, 3])
@@ -58,13 +60,12 @@ tsh.columns = ["date", "round", "day", "venue", "result", "GF", "GA", "opponent"
                "Gls", "Sh", "SoT", "SoT%", "G/Sh", "G/SoT", "PK", "PKatt", "time", "match_report"]
 tsh = tsh.reset_index()
 tsh.columns = ["league", "season", "team", "game"] + list(tsh.columns[4:])
-tsh = tsh[tsh["round"].astype(str).str.contains(
-    "Group stage", case=False, na=False)]
+tsh = tsh[tsh["game"].astype(str).str[:10] >= "2026-06-11"]
 tsh.to_csv(f"{CLEAN}\\team_shooting_clean.csv",
            index=False, encoding="utf-8-sig")
 print(f"  -> {tsh.shape}")
 
-# 5. TEAM MISC  (WC group stage only)
+# 5. TEAM MISC  (WC finals only: June 11 onward = group + knockouts)
 print("Cleaning team_misc...")
 tm = pd.read_csv(f"{DATA}\\team_misc_raw.csv", header=[
                  0, 1], index_col=[0, 1, 2, 3])
@@ -73,9 +74,13 @@ tm.columns = ["date", "round", "day", "venue", "result", "GF", "GA", "opponent",
               "PKwon", "PKcon", "OG", "time", "match_report"]
 tm = tm.reset_index()
 tm.columns = ["league", "season", "team", "game"] + list(tm.columns[4:])
-tm = tm[tm["round"].astype(str).str.contains(
-    "Group stage", case=False, na=False)]
+tm = tm[tm["game"].astype(str).str[:10] >= "2026-06-11"]
 tm.to_csv(f"{CLEAN}\\team_misc_clean.csv", index=False, encoding="utf-8-sig")
 print(f"  -> {tm.shape}")
 
-print("\n\nDONE — clean files in:", CLEAN)
+# 6. FLAG ENRICHMENT — adds country_code + flag_url to all clean files,
+#    rewriting them as plain utf-8 (no BOM) so Power BI reads headers correctly.
+print("\nAdding flag columns...")
+add_flags(clean_dir=CLEAN, verify=False)
+
+print("\n\nDONE — clean + flagged files in:", CLEAN)

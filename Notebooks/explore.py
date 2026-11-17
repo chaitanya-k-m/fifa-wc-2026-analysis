@@ -2,9 +2,9 @@ import pandas as pd
 
 # Load the data
 results = pd.read_csv(
-    r"C:\Users\chait\Desktop\FIFA_WC_2026\Data\Raw\results.csv")
+    r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data\Raw\results.csv")
 elo = pd.read_csv(
-    r"C:\Users\chait\Desktop\FIFA_WC_2026\Data\Raw\elo_ratings_wc2026.csv")
+    r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data\Raw\elo_ratings_wc2026.csv")
 
 # ── RESULTS ──────────────────────────────────
 print("=== SHAPE ===")

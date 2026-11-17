@@ -21,7 +21,7 @@ print("DONE — shape:", player_summary.shape)
 print("COLUMNS:", player_summary.columns.tolist())
 
 # Save raw output
-out = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data\player_summary_raw.csv"
+out = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data\player_summary_raw.csv"
 player_summary.to_csv(out, encoding="utf-8-sig")
 print("Saved to:", out)
 print(player_summary.head())

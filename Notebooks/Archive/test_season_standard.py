@@ -14,6 +14,6 @@ print("\nFIRST 3 ROWS:")
 print(df.head(3).to_string())
 
 # Save it so we have it regardless
-out = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data\player_season_standard_raw.csv"
+out = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data\player_season_standard_raw.csv"
 df.to_csv(out, encoding="utf-8-sig")
 print("\nSaved to:", out)

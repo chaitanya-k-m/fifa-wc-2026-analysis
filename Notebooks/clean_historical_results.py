@@ -3,8 +3,8 @@ import pandas as pd
 import os
 
 
-raw_results = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data\Raw\results.csv"
-raw_elo = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data\Raw\elo_ratings_wc2026.csv"
+raw_results = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data\Raw\results.csv"
+raw_elo = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data\Raw\elo_ratings_wc2026.csv"
 
 results = pd.read_csv(raw_results)
 elo = pd.read_csv(raw_elo)
@@ -38,7 +38,7 @@ results["result"] = results.apply(get_result, axis=1)
 print(results["result"].value_counts())
 
 
-clean_path = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data\Clean\results_clean.csv"
+clean_path = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data\Clean\results_clean.csv"
 results.to_csv(clean_path, index=False)
 print("Saved.")
 

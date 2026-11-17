@@ -1,6 +1,6 @@
 import pandas as pd
 
-data_dir = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data"
+data_dir = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data"
 
 # Read just the index columns (skip the multi-header mess, read raw)
 shoot = pd.read_csv(f"{data_dir}\\team_shooting_raw.csv", skiprows=2)

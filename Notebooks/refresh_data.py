@@ -1,6 +1,6 @@
 """
 FIFA WC 2026 — RAW DATA REFRESH PIPELINE
-Pulls live match data (API) + scrapes player/team stats (FBref via soccerdata).
+Pulls live match data (API, optional) + scrapes player/team stats (FBref via soccerdata).
 Run this whenever new matches are played to refresh the raw data layer.
 """
 
@@ -13,40 +13,41 @@ from dotenv import load_dotenv
 # ─────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────
-load_dotenv()  # reads .env from project root
+load_dotenv(r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\.env")
 API_TOKEN = os.getenv("FOOTBALL_DATA_TOKEN")
 
-DATA_DIR = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data"
-
-if not API_TOKEN:
-    raise SystemExit(
-        "ERROR: FOOTBALL_DATA_TOKEN not found. Check your .env file in the project root.")
+DATA_DIR = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data"
 
 # ─────────────────────────────────────────────
-# STEP 1 — LIVE MATCH DATA (football-data.org API)
+# STEP 1 — LIVE MATCH DATA (football-data.org API) — optional, skips if no token
 # ─────────────────────────────────────────────
 print("\n===== STEP 1: Live match data (API) =====")
-url = "https://api.football-data.org/v4/competitions/WC/matches"
-resp = requests.get(url, headers={"X-Auth-Token": API_TOKEN})
-
-if resp.status_code == 200:
-    matches = resp.json()["matches"]
-    rows = [{
-        "match_date": m["utcDate"][:10],
-        "stage": m["stage"],
-        "group": m.get("group", ""),
-        "home_team": m["homeTeam"]["name"],
-        "away_team": m["awayTeam"]["name"],
-        "home_score": m["score"]["fullTime"]["home"],
-        "away_score": m["score"]["fullTime"]["away"],
-        "status": m["status"],
-    } for m in matches]
-    pd.DataFrame(rows).to_csv(
-        f"{DATA_DIR}\\live_wc2026.csv", index=False, encoding="utf-8-sig")
-    print(f"  Saved {len(rows)} matches -> live_wc2026.csv")
+if API_TOKEN:
+    try:
+        url = "https://api.football-data.org/v4/competitions/WC/matches"
+        resp = requests.get(url, headers={"X-Auth-Token": API_TOKEN})
+        if resp.status_code == 200:
+            matches = resp.json()["matches"]
+            rows = [{
+                "match_date": m["utcDate"][:10],
+                "stage": m["stage"],
+                "group": m.get("group", ""),
+                "home_team": m["homeTeam"]["name"],
+                "away_team": m["awayTeam"]["name"],
+                "home_score": m["score"]["fullTime"]["home"],
+                "away_score": m["score"]["fullTime"]["away"],
+                "status": m["status"],
+            } for m in matches]
+            pd.DataFrame(rows).to_csv(
+                f"{DATA_DIR}\\live_wc2026.csv", index=False, encoding="utf-8-sig")
+            print(f"  Saved {len(rows)} matches -> live_wc2026.csv")
+        else:
+            print(
+                f"  API ERROR {resp.status_code} — skipping, keeping existing file.")
+    except Exception as e:
+        print(f"  API step failed ({e}) — skipping, keeping existing file.")
 else:
-    print(
-        f"  API ERROR {resp.status_code} — skipping live data, keeping existing file.")
+    print("  No API token — skipping live scores, keeping existing file. FBref scrape continues.")
 
 # ─────────────────────────────────────────────
 # STEP 2 — SETUP FBREF SCRAPER

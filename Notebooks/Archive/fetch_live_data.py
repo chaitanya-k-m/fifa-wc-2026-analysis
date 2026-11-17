@@ -8,7 +8,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 API_TOKEN = os.getenv("FOOTBALL_DATA_TOKEN")
-OUTPUT_PATH = r"C:\Users\chait\Desktop\FIFA_WC_2026\Data\live_wc2026.csv"
+OUTPUT_PATH = r"C:\Users\chait\Desktop\Claude\Football\FIFA_WC_2026\Data\live_wc2026.csv"
 
 # ─────────────────────────────────────────────
 # FETCH WC 2026 MATCHES
