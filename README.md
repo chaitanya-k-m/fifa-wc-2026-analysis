@@ -111,7 +111,7 @@ Other rules applied everywhere:
 
 **3. Attack** and **4. Defence** are scoped but not built yet; see [docs/dashboard_plan_attack_defence.md](docs/dashboard_plan_attack_defence.md). The planned order is Overview → Attack → Defence → Matchups. Position-based pages were rejected because they would present team results, such as clean sheets, as individual performance.
 
-The report theme is in `PowerBI/wc2026_theme.json`.
+The report itself is [`PowerBI/analysis wc.pbix`](PowerBI/analysis%20wc.pbix). Open it in Power BI Desktop to see the Overview and Matchups pages; it includes a copy of the data, so no pipeline run is needed. The theme is in `PowerBI/wc2026_theme.json`.
 
 ## SQL analyses (phase 1, MySQL)
 
